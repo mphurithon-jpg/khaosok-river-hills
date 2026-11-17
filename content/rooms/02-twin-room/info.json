@@ -1,0 +1,47 @@
+{
+  "order": 2,
+  "name": {
+    "en": "Twin Room with Balcony",
+    "th": "ห้องทวินพร้อมระเบียง"
+  },
+  "description": {
+    "en": "A 36 m² air-conditioned room with two single beds, a private bathroom with shower, and a balcony or terrace. Views may include the river, garden or inner courtyard.",
+    "th": "ห้องปรับอากาศขนาด 36 ตร.ม. เตียงเดี่ยว 2 เตียง ห้องน้ำส่วนตัวพร้อมฝักบัว และระเบียงหรือเทอเรซ วิวอาจเป็นแม่น้ำ สวน หรือลานด้านใน"
+  },
+  "guests": 2,
+  "size": {
+    "en": "36 m²",
+    "th": "36 ตร.ม."
+  },
+  "beds": {
+    "en": "2 single beds",
+    "th": "เตียงเดี่ยว 2 เตียง"
+  },
+  "price": {
+    "en": "Price on request / book via Booking.com",
+    "th": "สอบถามราคา / จองผ่าน Booking.com"
+  },
+  "booking_url": "https://www.booking.com/hotel/th/khaosok-river-hills-resort-ekhaask-riew-rhils-riis-rth.th.html",
+  "features": {
+    "en": [
+      "Private balcony or terrace",
+      "River, garden or courtyard view",
+      "Air-conditioning",
+      "Private bathroom with shower",
+      "Flat-screen TV",
+      "Fridge, kettle, tea and coffee",
+      "Safety deposit box, hairdryer and free toiletries",
+      "Free WiFi"
+    ],
+    "th": [
+      "ระเบียงหรือเทอเรซส่วนตัว",
+      "วิวแม่น้ำ สวน หรือลานด้านใน",
+      "เครื่องปรับอากาศ",
+      "ห้องน้ำส่วนตัวพร้อมฝักบัว",
+      "ทีวีจอแบน",
+      "ตู้เย็น กาต้มน้ำ และชุดชงชา-กาแฟ",
+      "ตู้นิรภัย ไดร์เป่าผม และของใช้ในห้องน้ำ",
+      "WiFi ฟรี"
+    ]
+  }
+}

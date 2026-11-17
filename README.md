@@ -6,15 +6,15 @@ Static bilingual (English / ไทย) site. No server, no online payment – bo
 **Preview:** `cd dist && python3 -m http.server 8080` then open http://localhost:8080
 **Cloudflare Pages:** Build command `node build.js`, Build output directory `dist`.
 
-⚠ Room prices are still sample figures. Tour and listed transfer prices, plus WhatsApp numbers, are from the resort’s current list. Edit `content/settings.json` and each `info.json`.
+Room rates are on request (live prices on Booking.com or via WhatsApp). Tour and listed transfer prices, plus WhatsApp numbers, are from the resort’s current list. Edit `content/settings.json` and each `info.json`.
 
 ---
 ## English – how to manage photos and items (no coding needed)
 
 Every room type, tour and transfer is one folder:
 ```
-content/rooms/01-river-view-deluxe/info.json   ← text & price (EN + TH)
-content/rooms/01-river-view-deluxe/photos/     ← put photos here
+content/rooms/01-double-room/info.json   ← text & price (EN + TH)
+content/rooms/01-double-room/photos/     ← put photos here
 content/tours/...      content/transfers/...
 content/settings.json  ← phone, LINE ID, LINE link, email
 ```

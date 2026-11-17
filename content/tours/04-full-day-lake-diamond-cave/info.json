@@ -21,11 +21,11 @@
     "th": "เต็มวัน"
   },
   "price": {
-    "en": "฿1,600 / person (1 adult) · ฿1,600 / person (2 adults)",
-    "th": "฿1,600 / ท่าน (1 คน) · ฿1,600 / ท่าน (2 คน)"
+    "en": "฿1,500 / person",
+    "th": "฿1,500 / ท่าน"
   },
-  "price_1pax": 1600,
-  "price_2pax": 1600,
+  "price_1pax": 1500,
+  "price_2pax": 1500,
   "highlights": {
     "en": [
       "Long-tail boat to the “Guilin of Thailand”",
@@ -160,12 +160,12 @@
     "en": [
       "National Park admission, paid directly to park officers (the flyer lists about ฿300 adult / ฿150 child under 14, and also writes the exclusion as ฿300+฿40 per person).",
       "Local pier fee of ฿20 per person.",
-      "Personal expenses. A 1-day lake flyer also shows ฿1,500 per person; the master price table, used here, is ฿1,600."
+      "Personal expenses."
     ],
     "th": [
       "ค่าเข้าอุทยาน จ่ายให้นายอุทยานโดยตรง (ใบโปรแกรมระบุประมาณ ฿300 ผู้ใหญ่ / ฿150 เด็กต่ำกว่า 14 ปี และอีกจุดเขียนว่า ฿300+฿40 ต่อท่าน)",
       "ค่าธรรมเนียมท่าเรือท้องถิ่น ฿20 ต่อท่าน",
-      "ค่าใช้จ่ายส่วนตัว ใบโปรแกรมทัวร์ 1 วันใบหนึ่งระบุ ฿1,500 ต่อท่าน แต่ตารางราคาหลักที่ใช้ในหน้านี้เป็น ฿1,600"
+      "ค่าใช้จ่ายส่วนตัว"
     ]
   },
   "bring": {

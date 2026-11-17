@@ -15,7 +15,12 @@ function list(v){
   const items=Array.isArray(a)?a:[a];
   return `<ul class="feat">${items.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`;
 }
-function priceOf(it){return esc(L(it.price)||'')}
+function priceOf(it){
+  const txt=L(it.price)||'';
+  if(!txt) return '';
+  if(it.booking_url) return `<a class="bookcom" href="${esc(it.booking_url)}" target="_blank" rel="noopener">${esc(txt)}</a>`;
+  return esc(txt);
+}
 function badges(it){
   let h='';
   if(it.category) h+=`<span class="badge">${esc(L(it.category))}</span>`;
@@ -28,7 +33,9 @@ function card(it,type,opts={}){
   return `<article class="card">${gallery(it)}<div class="cb">
     ${type==='tours'?badges(it):''}
     <h3>${esc(L(it.name))}</h3><p>${esc(L(it.description))}</p>
+    ${it.size?`<p class="meta">${t('size')}: ${esc(L(it.size))}</p>`:''}
     ${it.guests?`<p class="meta">${t('guests')}: ${it.guests}</p>`:''}
+    ${it.beds?`<p class="meta">${t('beds')}: ${esc(L(it.beds))}</p>`:''}
     ${it.duration?`<p class="meta">${t('duration')}: ${esc(L(it.duration))}</p>`:''}
     ${it.times?`<p class="meta">${esc(L(it.times))}</p>`:''}
     ${f.length?`<ul class="feat">${f.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}
