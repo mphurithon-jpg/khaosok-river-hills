@@ -1,0 +1,109 @@
+{
+  "order": 17,
+  "category": {
+    "en": "Jungle Trekking",
+    "th": "เดินป่า"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Khao Sok half-day trekking",
+    "th": "เดินป่าครึ่งวันเขาสก"
+  },
+  "description": {
+    "en": "A morning rainforest walk with a local guide to Bang Hua Rad waterfall, with time to swim and learn about plants and animals.",
+    "th": "เดินป่าดิบชื้นช่วงเช้ากับไกด์ท้องถิ่น ไปน้ำตกบังหัวราด มีเวลาว่ายน้ำและเรียนรู้เรื่องพืชและสัตว์"
+  },
+  "duration": {
+    "en": "2–4 hours",
+    "th": "2–4 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,400 / person (1 adult) · ฿700 / person (2 adults)",
+    "th": "฿1,400 / ท่าน (1 คน) · ฿700 / ท่าน (2 คน)"
+  },
+  "price_1pax": 1400,
+  "price_2pax": 700,
+  "highlights": {
+    "en": [
+      "Nature trail and waterfall",
+      "Learn about rainforest plants"
+    ],
+    "th": [
+      "เส้นทางธรรมชาติและน้ำตก",
+      "เรียนรู้พืชในป่าดิบชื้น"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "08:30",
+        "text": "Start trekking through the rainforest with a local guide."
+      },
+      {
+        "time": "10:30",
+        "text": "Arrive at Bang Hua Rad waterfall. Time to swim and relax."
+      },
+      {
+        "time": "11:30",
+        "text": "Back to the trail headquarters."
+      },
+      {
+        "time": "13:00",
+        "text": "Arrive at the resort."
+      }
+    ],
+    "th": [
+      {
+        "time": "08:30",
+        "text": "เริ่มเดินป่ากับไกด์ท้องถิ่น"
+      },
+      {
+        "time": "10:30",
+        "text": "ถึงน้ำตกบังหัวราด ว่ายน้ำและพักผ่อนได้"
+      },
+      {
+        "time": "11:30",
+        "text": "กลับที่ทำการเส้นทาง"
+      },
+      {
+        "time": "13:00",
+        "text": "ถึงรีสอร์ท"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "Local guide",
+      "Drinking water"
+    ],
+    "th": [
+      "ไกด์ท้องถิ่น",
+      "น้ำดื่ม"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park fee of ฿200 per person.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าเข้าอุทยาน ฿200 ต่อท่าน",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Trekking shoes",
+      "Sun protection",
+      "Swimwear"
+    ],
+    "th": [
+      "รองเท้าเดินป่า",
+      "กันแดด",
+      "ชุดว่ายน้ำ"
+    ]
+  }
+}

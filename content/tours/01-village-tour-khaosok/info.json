@@ -1,0 +1,157 @@
+{
+  "order": 1,
+  "category": {
+    "en": "Sightseeing & Culture",
+    "th": "ชมวัฒนธรรม"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Village Tour Khao Sok",
+    "th": "ทัวร์ชมวิถีชีวิตเขาสก"
+  },
+  "description": {
+    "en": "A full-day join-in trip to Khao Na Nai Luang Dharma Park, kayaking at Ban Nam Rat, a local Thai lunch, then bamboo rafting and a short nature trail.",
+    "th": "ทัวร์ร่วมเต็มวัน เที่ยวอุทยานธรรมเขานาในหลวง พายคายักที่บ้านน้ำราด รับประทานอาหารไทย แล้วล่องแพไม้ไผ่พร้อมเดินศึกษาธรรมชาติระยะสั้น"
+  },
+  "duration": {
+    "en": "Full day",
+    "th": "เต็มวัน"
+  },
+  "price": {
+    "en": "฿1,800 / person",
+    "th": "฿1,800 / ท่าน"
+  },
+  "price_1pax": 1800,
+  "price_2pax": null,
+  "highlights": {
+    "en": [
+      "Khao Na Nai Luang Dharma Park and Phutawadi Gate",
+      "Kayaking at Ban Nam Rat Watershed Forest",
+      "Local Thai lunch (pad krapow)",
+      "Bamboo rafting and a short nature trail"
+    ],
+    "th": [
+      "อุทยานธรรมเขานาในหลวง และประตูพุทธรดี",
+      "พายคายักที่ป่าต้นน้ำบ้านน้ำราด",
+      "อาหารกลางวันไทย (ผัดกะเพรา)",
+      "ล่องแพไม้ไผ่และเดินป่าสั้นๆ"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "08:00–08:15",
+        "text": "Pick-up from your hotel lobby."
+      },
+      {
+        "time": "09:15",
+        "text": "Visit Khao Na Nai Luang Dharma Park, a Buddhist complex on the mountain (about 300 m above sea level). Walk through Phutawadi Gate and up to the pagoda for panoramic views."
+      },
+      {
+        "time": "10:30",
+        "text": "Ban Nam Rat Watershed Forest: swim in the clear stream and kayak through the forest."
+      },
+      {
+        "time": "12:30",
+        "text": "Local Thai lunch — pad krapow (stir-fried basil with fried egg)."
+      },
+      {
+        "time": "13:30",
+        "text": "Short nature walk, then traditional bamboo rafting along the canal."
+      },
+      {
+        "time": "15:00",
+        "text": "Transfer back to Khao Sok."
+      },
+      {
+        "time": "16:00",
+        "text": "Arrive at your hotel."
+      }
+    ],
+    "th": [
+      {
+        "time": "08:00–08:15",
+        "text": "รับจากล็อบบี้ที่พัก"
+      },
+      {
+        "time": "09:15",
+        "text": "เที่ยวอุทยานธรรมเขานาในหลวง วัดบนภูเขาสูงประมาณ 300 เมตร เดินผ่านประตูพุทธรดีขึ้นไปที่เจดีย์ มองวิวได้กว้างไกล"
+      },
+      {
+        "time": "10:30",
+        "text": "ป่าต้นน้ำบ้านน้ำราด เล่นน้ำลำธารใสและพายคายักท่ามกลางป่า"
+      },
+      {
+        "time": "12:30",
+        "text": "อาหารกลางวันไทย — ผัดกะเพราไข่ดาว"
+      },
+      {
+        "time": "13:30",
+        "text": "เดินศึกษาธรรมชาติระยะสั้น แล้วล่องแพไม้ไผ่"
+      },
+      {
+        "time": "15:00",
+        "text": "เดินทางกลับเขาสก"
+      },
+      {
+        "time": "16:00",
+        "text": "ถึงที่พัก"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "English-speaking local guide",
+      "Round-trip hotel transfer",
+      "Entrance fees and tickets",
+      "Thai lunch",
+      "Drinking water",
+      "Travel insurance",
+      "Kayaking and bamboo rafting",
+      "Short nature trek"
+    ],
+    "th": [
+      "ไกด์ท้องถิ่นภาษาอังกฤษ",
+      "รถรับส่งที่พักไป-กลับ",
+      "ค่าเข้าชมและบัตร",
+      "อาหารกลางวันไทย",
+      "น้ำดื่ม",
+      "ประกันการเดินทาง",
+      "คายักและล่องแพไม้ไผ่",
+      "เดินป่าสั้นๆ"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "A change of clothes",
+      "Swimsuit",
+      "Comfortable, sturdy shoes",
+      "Towel",
+      "Sunscreen",
+      "Waterproof bag"
+    ],
+    "th": [
+      "ชุดเปลี่ยน",
+      "ชุดว่ายน้ำ",
+      "รองเท้าเดินสบายและทน",
+      "ผ้าเช็ดตัว",
+      "ครีมกันแดด",
+      "กระเป๋ากันน้ำ"
+    ]
+  },
+  "notes": {
+    "en": "The master price table describes this trip as a morning market, temple, viewpoint and waterfall. The detailed flyer itinerary used here is Dharma Park, Ban Nam Rat kayaking, lunch and bamboo rafting.",
+    "th": "ตารางราคาหลักบรรยายทัวร์นี้ว่าเป็นตลาดเช้า วัด จุดชมวิวและน้ำตก แต่ใบโปรแกรมรายละเอียดที่ใช้ในหน้านี้เป็นอุทยานธรรม บ้านน้ำราด คายัก อาหารกลางวัน และล่องแพ"
+  }
+}

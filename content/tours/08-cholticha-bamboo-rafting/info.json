@@ -1,0 +1,67 @@
+{
+  "order": 8,
+  "category": {
+    "en": "River Activities",
+    "th": "กิจกรรมทางน้ำ"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Cholticha bamboo rafting",
+    "th": "ล่องแพไม้ไผ่ชลธิชา"
+  },
+  "description": {
+    "en": "About 1.5 hours and 4–5 km on a bamboo raft along the Khao Sok river. Look out for mountains, big trees, a waterfall, monkeys, birds and snakes, then enjoy coffee in a bamboo cup.",
+    "th": "ล่องแพไม้ไผ่ประมาณ 1.5 ชั่วโมง ระยะทาง 4–5 กิโลเมตร ตามแม่น้ำเขาสก ชมภูเขา ต้นไม้ใหญ่ น้ำตก ลิง นก และงู แล้วจิบกาแฟในถ้วยไม้ไผ่"
+  },
+  "duration": {
+    "en": "1–2 hours (about 1.5 hours / 4–5 km)",
+    "th": "1–2 ชั่วโมง (ประมาณ 1.5 ชั่วโมง / 4–5 กม.)"
+  },
+  "price": {
+    "en": "฿800 / person (2 adults)",
+    "th": "฿800 / ท่าน (2 คน)"
+  },
+  "price_1pax": null,
+  "price_2pax": 800,
+  "highlights": {
+    "en": [
+      "Bamboo rafting on the Cholticha route",
+      "Coffee in a bamboo cup"
+    ],
+    "th": [
+      "ล่องแพไม้ไผ่เส้นทางชลธิชา",
+      "กาแฟในถ้วยไม้ไผ่"
+    ]
+  },
+  "includes": {
+    "en": [
+      "Local guide",
+      "Drinking water",
+      "Tea and coffee"
+    ],
+    "th": [
+      "ไกด์ท้องถิ่น",
+      "น้ำดื่ม",
+      "ชาและกาแฟ"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Sandals",
+      "Towel",
+      "A change of clothes"
+    ],
+    "th": [
+      "รองเท้าแตะ",
+      "ผ้าเช็ดตัว",
+      "ชุดเปลี่ยน"
+    ]
+  },
+  "notes": {
+    "en": "The master table lists no 1-person price (฿800 per person at the 2-person rate). A poster we did not have as a file may list ฿1,200 / ฿800.",
+    "th": "ตารางราคาหลักไม่มีราคา 1 ท่าน (฿800 ต่อท่าน ในเรท 2 คน) โปสเตอร์ที่ยังไม่มีไฟล์อาจระบุ ฿1,200 / ฿800"
+  }
+}

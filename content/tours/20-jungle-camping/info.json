@@ -1,0 +1,181 @@
+{
+  "order": 20,
+  "category": {
+    "en": "Jungle Trekking",
+    "th": "เดินป่า"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Camping in the jungle (2 days 1 night)",
+    "th": "ตั้งแคมป์ในป่า (2 วัน 1 คืน)"
+  },
+  "description": {
+    "en": "A two-day jungle trek with a night at Tam Sawarn waterfall. Sleep in a hammock or tent, eat meals cooked with bamboo, and join a night safari.",
+    "th": "เดินป่า 2 วัน ค้างคืนที่น้ำตกถ้ำสวรรค์ นอนเปลหรือเต็นท์ รับประทานอาหารที่ปรุงด้วยไม้ไผ่ และร่วมไนท์ซาฟารี"
+  },
+  "duration": {
+    "en": "2 days 1 night",
+    "th": "2 วัน 1 คืน"
+  },
+  "price": {
+    "en": "฿5,000 / person (1 adult) · ฿4,000 / person (2 adults)",
+    "th": "฿5,000 / ท่าน (1 คน) · ฿4,000 / ท่าน (2 คน)"
+  },
+  "price_1pax": 5000,
+  "price_2pax": 4000,
+  "highlights": {
+    "en": [
+      "Sleep in a hammock or tent in the forest",
+      "Jungle cooking",
+      "Night safari"
+    ],
+    "th": [
+      "นอนเปลหรือเต็นท์ในป่า",
+      "ทำอาหารในป่า",
+      "ไนท์ซาฟารี"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "Day 1 · 09:30",
+        "text": "Meet your local guide and travel to Tam Sawarn, deep in Khao Sok National Park, learning about flowers, plants and animals on the way."
+      },
+      {
+        "time": "11:30",
+        "text": "Arrive at Bang Hua Rat for lunch, swimming and a rest."
+      },
+      {
+        "time": "13:30",
+        "text": "Trek to Wang Yao — more time to swim and relax."
+      },
+      {
+        "time": "14:30",
+        "text": "Continue from Wang Yao to Tam Sawarn waterfall."
+      },
+      {
+        "time": "16:00",
+        "text": "Arrive at camp. The guide helps you prepare a hammock or tent, then cooks dinner with bamboo."
+      },
+      {
+        "time": "19:00",
+        "text": "Dinner."
+      },
+      {
+        "time": "20:00",
+        "text": "Night safari."
+      },
+      {
+        "time": "Day 2 · 08:30",
+        "text": "Breakfast."
+      },
+      {
+        "time": "10:00",
+        "text": "Depart Tam Sawarn for Tang Nam waterfall."
+      },
+      {
+        "time": "12:00",
+        "text": "Arrive at Tang Nam for lunch, swimming and a rest."
+      },
+      {
+        "time": "13:30",
+        "text": "Return to headquarters."
+      },
+      {
+        "time": "16:00",
+        "text": "Arrive at the resort."
+      }
+    ],
+    "th": [
+      {
+        "time": "วันที่ 1 · 09:30",
+        "text": "พบไกด์ท้องถิ่น เดินทางไปถ้ำสวรรค์ในอุทยานแห่งชาติเขาสก เรียนรู้เรื่องดอกไม้ พืช และสัตว์ตลอดทาง"
+      },
+      {
+        "time": "11:30",
+        "text": "ถึงบังหัวราด อาหารกลางวัน ว่ายน้ำและพักผ่อน"
+      },
+      {
+        "time": "13:30",
+        "text": "เดินต่อไปวังยาว ว่ายน้ำและพักผ่อนได้อีก"
+      },
+      {
+        "time": "14:30",
+        "text": "จากวังยาวไปน้ำตกถ้ำสวรรค์"
+      },
+      {
+        "time": "16:00",
+        "text": "ถึงแคมป์ ไกด์ช่วยเตรียมเปลหรือเต็นท์ แล้วปรุงอาหารเย็นด้วยไม้ไผ่"
+      },
+      {
+        "time": "19:00",
+        "text": "อาหารเย็น"
+      },
+      {
+        "time": "20:00",
+        "text": "ไนท์ซาฟารี"
+      },
+      {
+        "time": "วันที่ 2 · 08:30",
+        "text": "อาหารเช้า"
+      },
+      {
+        "time": "10:00",
+        "text": "ออกจากถ้ำสวรรค์ไปน้ำตกถ้ำน้ำ"
+      },
+      {
+        "time": "12:00",
+        "text": "ถึงถ้ำน้ำ อาหารกลางวัน ว่ายน้ำและพักผ่อน"
+      },
+      {
+        "time": "13:30",
+        "text": "กลับที่ทำการ"
+      },
+      {
+        "time": "16:00",
+        "text": "ถึงรีสอร์ท"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "English-speaking local guide",
+      "4 meals",
+      "Hammock or tent",
+      "Drinking water",
+      "Torch"
+    ],
+    "th": [
+      "ไกด์ท้องถิ่นภาษาอังกฤษ",
+      "อาหาร 4 มื้อ",
+      "เปลหรือเต็นท์",
+      "น้ำดื่ม",
+      "ไฟฉาย"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park fees may apply even though they are not listed on this flyer — please ask when you book.",
+      "Personal expenses"
+    ],
+    "th": [
+      "อาจมีค่าเข้าอุทยาน แม้ใบโปรแกรมนี้จะไม่ได้ระบุไว้ — สอบถามตอนจอง",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Trekking shoes",
+      "Sun and mosquito protection",
+      "Long clothes"
+    ],
+    "th": [
+      "รองเท้าเดินป่า",
+      "กันแดดและกันยุง",
+      "เสื้อผ้าแขนยาขายาว"
+    ]
+  }
+}

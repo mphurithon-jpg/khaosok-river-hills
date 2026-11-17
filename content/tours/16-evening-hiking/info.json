@@ -1,0 +1,43 @@
+{
+  "order": 16,
+  "category": {
+    "en": "Jungle Trekking",
+    "th": "เดินป่า"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Khao Sok evening hiking",
+    "th": "เดินป่าเย็นเขาสก"
+  },
+  "description": {
+    "en": "A twilight trek that starts in daylight and continues into the evening, as the forest changes from day to night.",
+    "th": "เดินป่าช่วงโพล้เพล้ เริ่มตอนยังมีแสงแล้วต่อเนื่องถึงค่ำ เพื่อสัมผัสการเปลี่ยนจากกลางวันสู่กลางคืนในป่า"
+  },
+  "duration": {
+    "en": "5–6 hours",
+    "th": "5–6 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,800 / person (2 adults)",
+    "th": "฿1,800 / ท่าน (2 คน)"
+  },
+  "price_1pax": null,
+  "price_2pax": 1800,
+  "highlights": {
+    "en": [
+      "Twilight trekking",
+      "From day into night"
+    ],
+    "th": [
+      "เดินป่าโพล้เพล้",
+      "จากกลางวันสู่กลางคืน"
+    ]
+  },
+  "notes": {
+    "en": "The master table lists this as 13:00–21:00 and also as 5–6 hours (those two figures do not quite match). There is no 1-person price. A poster we did not have as a file may list ฿2,500 / ฿1,800. Park fees likely apply.",
+    "th": "ตารางราคาหลักระบุช่วงเวลา 13:00–21:00 และระยะเวลา 5–6 ชั่วโมง ซึ่งไม่ตรงกันพอดี ไม่มีราคา 1 ท่าน โปสเตอร์ที่ยังไม่มีไฟล์อาจระบุ ฿2,500 / ฿1,800 โดยทั่วไปมีค่าเข้าอุทยานเพิ่ม"
+  }
+}

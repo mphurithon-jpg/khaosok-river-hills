@@ -1,0 +1,49 @@
+{
+  "order": 24,
+  "category": {
+    "en": "Workshop / Culture",
+    "th": "เวิร์กช็อป / วัฒนธรรม"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Traditional Thai cooking class",
+    "th": "คลาสทำอาหารไทย"
+  },
+  "description": {
+    "en": "A hands-on class at an organic farm: walk the garden, learn about Thai herbs, make curry paste from scratch, cook a Thai curry and sit down to eat your meal in the heart of nature.",
+    "th": "คลาสลงมือทำที่ฟาร์มออร์แกนิก เดินชมสวน เรียนรู้สมุนไพรไทย ทำเครื่องแกงเอง ปรุงแกงไทย แล้วรับประทานอาหารด้วยกันท่ามกลางธรรมชาติ"
+  },
+  "duration": {
+    "en": "1.5 hours",
+    "th": "1.5 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,000 / person",
+    "th": "฿1,000 / ท่าน"
+  },
+  "price_1pax": 1000,
+  "price_2pax": null,
+  "highlights": {
+    "en": [
+      "Explore the organic farm",
+      "Make curry paste from scratch",
+      "Cook and enjoy a Thai meal"
+    ],
+    "th": [
+      "ชมฟาร์มออร์แกนิก",
+      "ทำเครื่องแกงเอง",
+      "ปรุงและรับประทานอาหารไทย"
+    ]
+  },
+  "times": {
+    "en": "Daily. Morning class 09:00–10:30. Afternoon class 16:00–17:30. Pick-up is 20 minutes before the class starts.",
+    "th": "เปิดทุกวัน รอบเช้า 09:00–10:30 น. รอบบ่าย 16:00–17:30 น. รับก่อนเริ่มคลาส 20 นาที"
+  },
+  "notes": {
+    "en": "The class flyer lists 1.5 hours and one Thai meal (curry). The master table lists 2–3 hours and “cook 3–4 Thai dishes / learn about herbs.” We used the flyer for times and duration.",
+    "th": "ใบคลาสระบุ 1.5 ชั่วโมง และอาหารไทย 1 เมนู (แกง) ตารางราคาหลักระบุ 2–3 ชั่วโมง และ “ทำอาหารไทย 3–4 อย่าง / เรียนรู้สมุนไพร” หน้านี้ใช้เวลาตามใบคลาส"
+  }
+}

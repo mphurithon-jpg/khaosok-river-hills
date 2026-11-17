@@ -1,0 +1,39 @@
+{
+  "important": {
+    "title": {"en": "Important information before joining a tour", "th": "ข้อมูลสำคัญก่อนร่วมทัวร์"},
+    "intro": {
+      "en": "Please tell us before you book if any of the following apply:",
+      "th": "กรุณาแจ้งเราก่อนจอง หากมีข้อใดข้อหนึ่งต่อไปนี้:"
+    },
+    "items": {
+      "en": ["Medical conditions", "Recent injuries or recent surgery", "Ongoing medical treatment", "Food allergies", "Pregnancy"],
+      "th": ["โรคประจำตัว", "อาการบาดเจ็บเมื่อไม่นานมานี้ หรือเพิ่งเข้ารับการผ่าตัด", "กำลังอยู่ระหว่างการรักษาทางการแพทย์", "แพ้อาหาร", "กำลังตั้งครรภ์"]
+    },
+    "insurance": {
+      "en": "Please note: travel insurance does not cover pre-existing medical conditions or injuries.",
+      "th": "โปรดทราบ: ประกันการเดินทางจะไม่คุ้มครองโรคประจำตัวหรืออาการเจ็บที่มีอยู่ก่อนเข้าร่วมทัวร์"
+    }
+  },
+  "cancellation": {
+    "title": {"en": "Cancellation policy", "th": "นโยบายการยกเลิก"},
+    "items": {
+      "en": [
+        "Free cancellation if you tell us before 8:00 PM the day before the tour.",
+        "Cancel on the day of the tour, or a no-show: the full price is charged.",
+        "Reschedule before the tour date: 50% of the price is charged."
+      ],
+      "th": [
+        "ยกเลิกฟรีหากแจ้งก่อน 20:00 น. ของวันก่อนออกทริป",
+        "ยกเลิกในวันออกทริป หรือไม่มาตามที่นัด: ต้องจ่ายเต็มราคา",
+        "เลื่อนวันออกทริปก่อนวันเดินทาง: ต้องจ่ายครึ่งราคา"
+      ]
+    }
+  },
+  "park_fees": {
+    "title": {"en": "National Park entry fees", "th": "ค่าเข้าอุทยานแห่งชาติ"},
+    "text": {
+      "en": "Khao Sok National Park entry fees are usually paid directly at the park and are not included in the tour price unless a tour says otherwise. For reference: Thai visitors ฿40 adult / ฿20 child; foreign visitors ฿200 adult / ฿100 child. Some Cheow Lan Lake programs have different park and pier fees — these are listed on each tour. Fees may change.",
+      "th": "ค่าเข้าอุทยานแห่งชาติเขาสกโดยปกติจ่ายที่หน้าอุทยาน และไม่รวมในราคาทัวร์ เว้นแต่ทัวร์นั้นจะระบุไว้ ค่าธรรมเนียมโดยประมาณ: คนไทย ผู้ใหญ่ ฿40 / เด็ก ฿20; ชาวต่างชาติ ผู้ใหญ่ ฿200 / เด็ก ฿100 ทัวร์เขื่อนเชี่ยวหลานบางรายการมีค่าเข้าอุทยานและค่าธรรมเนียมท่าเรือต่างออกไป ซึ่งระบุไว้ในแต่ละทัวร์ ราคาอาจเปลี่ยนแปลงได้"
+    }
+  }
+}

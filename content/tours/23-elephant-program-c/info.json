@@ -1,0 +1,43 @@
+{
+  "order": 23,
+  "category": {
+    "en": "Elephant Experience",
+    "th": "กิจกรรมช้าง"
+  },
+  "type": {
+    "en": "Activity",
+    "th": "กิจกรรม"
+  },
+  "name": {
+    "en": "Feed and walk with elephants (Program C)",
+    "th": "ให้อาหารและเดินกับช้าง (โปรแกรม C)"
+  },
+  "description": {
+    "en": "A one-hour visit to walk with the elephants, feed them and take photos.",
+    "th": "กิจกรรม 1 ชั่วโมง เดินกับช้าง ให้อาหาร และถ่ายรูป"
+  },
+  "duration": {
+    "en": "1 hour",
+    "th": "1 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿800 / person",
+    "th": "฿800 / ท่าน"
+  },
+  "price_1pax": 800,
+  "price_2pax": null,
+  "highlights": {
+    "en": [
+      "Walk with elephants",
+      "Feeding and photos"
+    ],
+    "th": [
+      "เดินกับช้าง",
+      "ให้อาหารและถ่ายรูป"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table.",
+    "th": "รายละเอียดจากตารางราคาหลัก"
+  }
+}

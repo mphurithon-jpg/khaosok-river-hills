@@ -1,0 +1,41 @@
+{
+  "order": 25,
+  "category": {
+    "en": "Adventure",
+    "th": "ผจญภัย"
+  },
+  "type": {
+    "en": "Activity",
+    "th": "กิจกรรม"
+  },
+  "name": {
+    "en": "Khao Sok ATV adventure",
+    "th": "ขับรถ ATV เขาสก"
+  },
+  "description": {
+    "en": "Off-road ATV driving through nature, palm and rubber plantations.",
+    "th": "ขับ ATV ลุยธรรมชาติ ผ่านสวนปาล์มและยางพารา"
+  },
+  "duration": {
+    "en": "1.5–2 hours",
+    "th": "1.5–2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,500 rider · ฿700 passenger",
+    "th": "฿1,500 คนขับ · ฿700 คนซ้อน"
+  },
+  "highlights": {
+    "en": [
+      "Off-road driving",
+      "Palm and rubber plantations"
+    ],
+    "th": [
+      "ขับออฟโรด",
+      "สวนปาล์มและยางพารา"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table. A full ATV flyer was not among the files we could open.",
+    "th": "รายละเอียดจากตารางราคาหลัก ยังไม่มีใบโปรแกรม ATV ฉบับเต็มในไฟล์ที่ได้รับ"
+  }
+}

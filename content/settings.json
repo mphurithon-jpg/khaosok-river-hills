@@ -1,2 +1,11 @@
-{"_note":"PLACEHOLDER contact details - replace with official ones / ข้อมูลตัวอย่าง กรุณาเปลี่ยนเป็นข้อมูลจริง",
-"phone":"+66 00-000-0000","line_id":"@placeholder-line","line_url":"https://line.me/R/ti/p/@placeholder-line","email":"booking@example.com"}
+{
+  "phone": "+66 64 819 6224",
+  "phone2": "+66 64 054 7666",
+  "whatsapp": [
+    {"label": "+66 64 819 6224", "url": "https://wa.me/66648196224"},
+    {"label": "+66 64 054 7666", "url": "https://wa.me/66640547666"}
+  ],
+  "line_id": "",
+  "line_url": "",
+  "email": ""
+}

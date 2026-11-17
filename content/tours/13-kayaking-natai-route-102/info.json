@@ -1,0 +1,59 @@
+{
+  "order": 13,
+  "category": {
+    "en": "River Activities",
+    "th": "กิจกรรมทางน้ำ"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Kayaking: Natai to Route 102",
+    "th": "คายัก: นาใต้–ทางหลวง 102"
+  },
+  "description": {
+    "en": "Start at Natai and finish at Route 102, paddling a jungle canal with time to watch wildlife and swim.",
+    "th": "ออกจากนาใต้และจบที่ทางหลวง 102 พายตามคลองป่า มีเวลาชมสัตว์และว่ายน้ำ"
+  },
+  "duration": {
+    "en": "1 hour 30 minutes · about 5 km",
+    "th": "1 ชั่วโมง 30 นาที · ประมาณ 5 กม."
+  },
+  "price": {
+    "en": "฿1,000 / person",
+    "th": "฿1,000 / ท่าน"
+  },
+  "price_1pax": 1000,
+  "price_2pax": null,
+  "highlights": {
+    "en": [
+      "Jungle canal paddle",
+      "Wildlife spotting",
+      "Optional swim"
+    ],
+    "th": [
+      "พายตามคลองป่า",
+      "ชมสัตว์ป่า",
+      "ว่ายน้ำได้ตามต้องการ"
+    ]
+  },
+  "includes": {
+    "en": [
+      "Option to paddle yourself, or have a local guide paddle for you at no extra charge",
+      "Cold drinking water and refreshments during the trip",
+      "Life jackets and safety equipment",
+      "Free round-trip transfer from hotels or accommodations in the Khao Sok area"
+    ],
+    "th": [
+      "เลือกพายเอง หรือให้ไกด์ท้องถิ่นพายให้โดยไม่มีค่าใช้จ่ายเพิ่ม",
+      "น้ำดื่มเย็นและของว่างระหว่างทริป",
+      "เสื้อชูชีพและอุปกรณ์ความปลอดภัย",
+      "รถรับส่งฟรีไป-กลับจากที่พักในพื้นที่เขาสก"
+    ]
+  },
+  "times": {
+    "en": "Tour times: 09:30, 11:30 and 15:00.",
+    "th": "รอบออกเดินทาง: 09:30, 11:30 และ 15:00 น."
+  }
+}

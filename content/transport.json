@@ -1,0 +1,39 @@
+{
+  "shared_phuket": {
+    "title": {"en": "Shared van: Khao Sok to Phuket (hotel to hotel)", "th": "รถตู้ร่วม: เขาสก–ภูเก็ต (รับส่งที่โรงแรม)"},
+    "times": {"en": "Departures at 08:30 and 14:30", "th": "ออกรอบ 08:30 น. และ 14:30 น."},
+    "rows": [
+      {"dest": {"en": "Khao Lak", "th": "เขาหลัก"}, "price": 500},
+      {"dest": {"en": "Phuket Airport", "th": "สนามบินภูเก็ต"}, "price": 700},
+      {"dest": {"en": "Phuket Town", "th": "ตัวเมืองภูเก็ต"}, "price": 800},
+      {"dest": {"en": "Phuket beaches", "th": "หาดต่างๆ ในภูเก็ต"}, "price": 900}
+    ],
+    "notes": {
+      "en": "Prices are per person, one way. +฿100 per large suitcase.",
+      "th": "ราคาต่อท่าน เที่ยวเดียว กระเป๋าใบใหญ่เพิ่ม ฿100 ต่อใบ"
+    }
+  },
+  "shared_other": {
+    "title": {"en": "Shared van to Phang Nga and Krabi", "th": "รถตู้ร่วมไปพังงาและกระบี่"},
+    "text": {
+      "en": "Shared vans also run to Phang Nga and Krabi. Fares are typically about ฿350–1,200 depending on the destination. Message us on WhatsApp for times and the exact fare to your hotel.",
+      "th": "มีรถตู้ร่วมไปพังงาและกระบี่ด้วย ค่าโดยสารโดยประมาณ ฿350–1,200 ตามปลายทาง สอบถามรอบรถและราคาไปที่พักของท่านทาง WhatsApp ได้เลย"
+    }
+  },
+  "minibus": {
+    "title": {"en": "Mini bus from Khao Sok", "th": "มินิบัสจากเขาสก"},
+    "departures": ["06:30", "08:00", "09:00", "10:00", "12:00", "16:00"],
+    "effective": {"en": "Timetable effective 11 April 2026", "th": "ตารางเวลามีผลตั้งแต่วันที่ 11 เมษายน 2026"},
+    "notes": {
+      "en": "Pick-up is 30 minutes before departure. A surcharge may apply for large luggage. Destinations and fares vary by departure — please ask us on WhatsApp for the current list. A mini bus also runs from Cheow Lan Pier; ask us for that timetable too.",
+      "th": "รับผู้โดยสารก่อนออก 30 นาที กระเป๋าใบใหญ่อาจมีค่าใช้จ่ายเพิ่ม ปลายทางและราคาแต่ละรอบต่างกัน สอบถามรายการล่าสุดทาง WhatsApp ได้เลย มีมินิบัสจากท่าเรือเชี่ยวหลานด้วย สามารถสอบถามตารางรถได้เช่นกัน"
+    }
+  },
+  "private_van": {
+    "title": {"en": "Private mini van (priced per way)", "th": "รถตู้ส่วนตัว (ราคาต่อเที่ยว)"},
+    "text": {
+      "en": "We arrange private minivans to airports and towns around southern Thailand. Prices are per vehicle, one way. Message us on WhatsApp with your date, time and destination for a quote.",
+      "th": "จัดรถตู้ส่วนตัวไปสนามบินและเมืองต่างๆ ในภาคใต้ ราคาต่อคัน เที่ยวเดียว แจ้งวัน เวลา และปลายทางมาทาง WhatsApp เพื่อขอใบเสนอราคาได้เลย"
+    }
+  }
+}

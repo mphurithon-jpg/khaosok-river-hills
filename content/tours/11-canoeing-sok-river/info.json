@@ -1,0 +1,43 @@
+{
+  "order": 11,
+  "category": {
+    "en": "River Activities",
+    "th": "กิจกรรมทางน้ำ"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Canoeing on the Sok River",
+    "th": "พายเรือแคนูแม่น้ำซก"
+  },
+  "description": {
+    "en": "A stable canoe ride, paddled by a guide — a good way to look for reptiles and birds.",
+    "th": "นั่งเรือแคนูที่มั่นคง มีไกด์พายให้ เหมาะสำหรับดูสัตว์เลื้อยคลานและนก"
+  },
+  "duration": {
+    "en": "1–2 hours",
+    "th": "1–2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,000 / person (1 adult) · ฿800 / person (2 adults)",
+    "th": "฿1,000 / ท่าน (1 คน) · ฿800 / ท่าน (2 คน)"
+  },
+  "price_1pax": 1000,
+  "price_2pax": 800,
+  "highlights": {
+    "en": [
+      "Guide-paddled canoe",
+      "Good for spotting reptiles and birds"
+    ],
+    "th": [
+      "ไกด์พายให้",
+      "เหมาะแก่การดูสัตว์เลื้อยคลานและนก"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table.",
+    "th": "รายละเอียดจากตารางราคาหลัก"
+  }
+}

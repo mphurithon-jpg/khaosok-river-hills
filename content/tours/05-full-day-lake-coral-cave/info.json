@@ -1,0 +1,167 @@
+{
+  "order": 5,
+  "category": {
+    "en": "Lake Tour",
+    "th": "ทัวร์เขื่อนเชี่ยวหลาน"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Full-day Lake Tour — Coral Cave & bamboo rafting",
+    "th": "ทัวร์เขื่อนเชี่ยวหลาน 1 วัน — ถ้ำปะการังและล่องแพไม้ไผ่"
+  },
+  "description": {
+    "en": "A full-day join-in trip on Cheow Lan Lake: long-tail sightseeing, the three limestone rocks, a short hike and bamboo raft to Coral Cave, lunch at a raft house, then swimming or canoeing.",
+    "th": "ทัวร์ร่วมเต็มวันที่เขื่อนเชี่ยวหลาน นั่งเรือหางยาวชมเขาสามเกลอ เดินและล่องแพเข้าถ้ำปะการัง อาหารกลางวันที่แพ แล้วว่ายน้ำหรือพายเรือแคนู"
+  },
+  "duration": {
+    "en": "Full day",
+    "th": "เต็มวัน"
+  },
+  "price": {
+    "en": "฿1,600 / person (1 adult) · ฿1,600 / person (2 adults)",
+    "th": "฿1,600 / ท่าน (1 คน) · ฿1,600 / ท่าน (2 คน)"
+  },
+  "price_1pax": 1600,
+  "price_2pax": 1600,
+  "highlights": {
+    "en": [
+      "Long-tail sightseeing to the “Guilin of Thailand”",
+      "Trek and bamboo raft to Coral Cave",
+      "Lunch on a floating raft"
+    ],
+    "th": [
+      "นั่งเรือชมเขาสามเกลอ (“กิ๋หลินเมืองไทย”)",
+      "เดินและล่องแพเข้าถ้ำปะการัง",
+      "อาหารกลางวันที่แพ"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "07:30–08:00",
+        "text": "Pick-up from your hotel lobby."
+      },
+      {
+        "time": "09:00–09:30",
+        "text": "Arrive at Ratchaprapha Dam, check in with the National Park and board the boat."
+      },
+      {
+        "time": "10:30–12:30",
+        "text": "Explore the lake by long-tail boat among white limestone cliffs and emerald water. Stop at the famous three-rock landmark (the “Guilin of Thailand”), then a short hike and bamboo raft to a cave (around 2 hours 30 minutes, same way back)."
+      },
+      {
+        "time": "13:00",
+        "text": "Lunch at a raft house — a Thai set menu with a view."
+      },
+      {
+        "time": "14:00",
+        "text": "Free time for swimming and canoeing around Cheow Lan Lake."
+      },
+      {
+        "time": "15:00",
+        "text": "Return to Cheow Lan Lake pier."
+      },
+      {
+        "time": "16:00",
+        "text": "Arrive at the pier and transfer to the hotel."
+      },
+      {
+        "time": "17:30",
+        "text": "Arrive back at your hotel."
+      }
+    ],
+    "th": [
+      {
+        "time": "07:30–08:00",
+        "text": "รับจากล็อบบี้ที่พัก"
+      },
+      {
+        "time": "09:00–09:30",
+        "text": "ถึงเขื่อนรัชชประภา ลงทะเบียนกับอุทยาน แล้วขึ้นเรือ"
+      },
+      {
+        "time": "10:30–12:30",
+        "text": "นั่งเรือหางยาวชมหน้าผาหินปูนขาวและน้ำสีมรกต แวะเขาสามเกลอ แล้วเดินป่าสั้นๆ และล่องแพเข้าถ้ำ (รวมไป-กลับประมาณ 2 ชั่วโมง 30 นาที)"
+      },
+      {
+        "time": "13:00",
+        "text": "อาหารกลางวันแบบชุดไทยที่แพ พร้อมวิว"
+      },
+      {
+        "time": "14:00",
+        "text": "เวลาว่าง ว่ายน้ำและพายเรือแคนู"
+      },
+      {
+        "time": "15:00",
+        "text": "กลับท่าเรือเขื่อนเชี่ยวหลาน"
+      },
+      {
+        "time": "16:00",
+        "text": "ถึงท่าเรือ แล้วเดินทางกลับที่พัก"
+      },
+      {
+        "time": "17:30",
+        "text": "ถึงที่พัก"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "Drinking water",
+      "Thai set-menu lunch",
+      "Seasonal fruit",
+      "Local guide",
+      "Activities",
+      "Round-trip transfers",
+      "Accident insurance"
+    ],
+    "th": [
+      "น้ำดื่ม",
+      "อาหารกลางวันชุดไทย",
+      "ผลไม้ตามฤดูกาล",
+      "ไกด์ท้องถิ่น",
+      "กิจกรรมในโปรแกรม",
+      "รถรับส่งไป-กลับ",
+      "ประกันอุบัติเหตุ"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park fee of ฿540 per person (as written on the Coral Cave flyer), paid separately.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าเข้าอุทยาน ฿540 ต่อท่าน (ตามที่ระบุในใบโปรแกรมถ้ำปะการัง) จ่ายแยก",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "A change of clothes",
+      "Swimsuit",
+      "Sturdy shoes",
+      "Hat",
+      "Towel",
+      "Sunscreen",
+      "Waterproof bag",
+      "Mosquito spray"
+    ],
+    "th": [
+      "ชุดเปลี่ยน",
+      "ชุดว่ายน้ำ",
+      "รองเท้าเดินทน",
+      "หมวก",
+      "ผ้าเช็ดตัว",
+      "ครีมกันแดด",
+      "กระเป๋ากันน้ำ",
+      "สเปรย์กันยุง"
+    ]
+  },
+  "notes": {
+    "en": "The program may change with the weather; the customer’s benefit comes first.",
+    "th": "โปรแกรมอาจเปลี่ยนตามสภาพอากาศ โดยคำนึงถึงประโยชน์ของผู้ร่วมทัวร์เป็นหลัก"
+  }
+}

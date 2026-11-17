@@ -1,0 +1,93 @@
+[
+  {
+    "library": "king-bed-towel-swan.jpg",
+    "source_hash_file": "4a963b4d8437a8877f9872c5f153e26248d1a173111dea80348d67d0bdbdde01.jpg",
+    "md5": "112895010d8be438d316eaffa97568cb",
+    "bytes": 43783,
+    "note": "new unique photo"
+  },
+  {
+    "library": "breakfast-fruit-yogurt-granola.jpg",
+    "source_hash_file": "9547557e3db5b4229a12b96266e254cca60bff3b03512430a267b16ec9a2a286.jpg",
+    "md5": "83787a89c4e20e18579c7601dd37494c",
+    "bytes": 62905,
+    "note": "visual duplicate of rooms/01-river-view-deluxe/photos/5-breakfast-fruit-yogurt.jpg; kept existing site file"
+  },
+  {
+    "library": "amenity-umbrella-hanger-rack.jpg",
+    "source_hash_file": "7c7f6f2ef07c70b724b82a17180bc749bec52741e43ccb009e5f895b187d2aab.jpg",
+    "md5": "a3b382c043171fa3b3e185f074965273",
+    "bytes": 50442,
+    "note": "new unique photo"
+  },
+  {
+    "library": "exterior-bungalow-row.jpg",
+    "source_hash_file": "c3d51d5354a27959931638298d4c49c4515b3fd2ec395f2fd0ba0ed7222335fe.jpg",
+    "md5": "3bed011cc6399815db330ec8cdf294f2",
+    "bytes": 151527,
+    "note": "visual duplicate of rooms/02-family-river-bungalow/photos/4-bungalows-exterior.jpg; kept existing site file"
+  },
+  {
+    "library": "king-bed-pillows-closeup.jpg",
+    "source_hash_file": "7cd4447e110989ea15cd06fd32979eabad0af182cae40de27912357c60c3b833.jpg",
+    "md5": "d62f98bdca6f9dcfd50da6b1ece28be3",
+    "bytes": 39546,
+    "note": "new unique photo"
+  },
+  {
+    "library": "river-rapids-1.jpg",
+    "source_hash_file": "440c150697d79a6eb7d49c58bc79c486e26465ac152b7f3a083d0ed85c521144.jpg",
+    "md5": "1e8a67e5f3a7c4d28ff504776e3e0dda",
+    "bytes": 263571,
+    "note": "new unique photo"
+  },
+  {
+    "library": "king-bed-river-view-doors.jpg",
+    "source_hash_file": "b9e3d28528da89debef94dd719e88e5a3477000e1924307677de0fce2e20db43.jpg",
+    "md5": "9df2a4a2b87c7a5559218eeff27500eb",
+    "bytes": 54553,
+    "note": "new unique photo"
+  },
+  {
+    "library": "breakfast-scrambled-egg-plate.jpg",
+    "source_hash_file": "407d4a62d61057626275e1eef8aebd50239453e6b2ae71806e123e0e52163768.jpg",
+    "md5": "065478739804e15831ec3e33e5b43179",
+    "bytes": 121055,
+    "note": "new unique photo"
+  },
+  {
+    "library": "family-two-double-beds-river-window.jpg",
+    "source_hash_file": "7413290da347c83a531d42d3846a536d66cfa77aa3ca43a4c4c6123e3d0857b0.jpg",
+    "md5": "e6c885753b2d899b77d0ee2a7808d2cf",
+    "bytes": 68645,
+    "note": "visual duplicate of rooms/02-family-river-bungalow/photos/1-two-double-beds-river-window.jpg; kept existing site file"
+  },
+  {
+    "library": "exterior-two-bungalows-sign-text.jpg",
+    "source_hash_file": "bf34e8d46c830f214a1eb62ac5e4c499a1756e946435b05b1507685ced388f5a.jpg",
+    "md5": "aac3911da7296000cb62da82f9e08e93",
+    "bytes": 196166,
+    "note": "new unique photo"
+  },
+  {
+    "library": "amenity-desk-minibar-kettle.jpg",
+    "source_hash_file": "96a6e41353a06670e333f35eef63702f4187995e1b53c5152be6c64ae688f390.jpg",
+    "md5": "4e6afe93d72d000394efa5286d67ecb6",
+    "bytes": 85474,
+    "note": "near-duplicate of rooms/*/photos/*desk-amenities.jpg; kept existing site file"
+  },
+  {
+    "library": "amenity-smart-tv.jpg",
+    "source_hash_file": "26c3e7ef7fa63306306bd7f62c3f591ad64ba7c60bf4fdddd2fa3be68729bd74.jpg",
+    "md5": "b7edf4c81e61c40cc24ab1d3665a63ac",
+    "bytes": 63671,
+    "note": "new unique photo"
+  },
+  {
+    "library": "river-rapids-2.jpg",
+    "source_hash_file": "4538d90f614a7e910ef9b4d86df9cf1df6a911e78c2bece9c4985338cbf9a3d2.jpg",
+    "md5": "2bc16faf94ae5d71d42d1ab74b6534fb",
+    "bytes": 257646,
+    "note": "new unique photo"
+  }
+]

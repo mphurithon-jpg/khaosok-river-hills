@@ -1,0 +1,70 @@
+{
+  "order": 6,
+  "category": {
+    "en": "Private Lake Charter",
+    "th": "เช่าเรือส่วนตัวชมเขื่อน"
+  },
+  "type": {
+    "en": "Private trip",
+    "th": "ทัวร์ส่วนตัว"
+  },
+  "name": {
+    "en": "Private Cheow Lan Lake full day (Coral Cave or Diamond Cave)",
+    "th": "ทัวร์เขื่อนเชี่ยวหลานส่วนตัว 1 วัน (ถ้ำปะการังหรือถ้ำเพชร)"
+  },
+  "description": {
+    "en": "Your own long-tail boat for a full day on Cheow Lan Lake. Cruise in privacy to the “Guilin of Thailand” and choose Coral Cave or Diamond Cave, with a flexible itinerary.",
+    "th": "เช่าเรือหางยาวส่วนตัวเต็มวันที่เขื่อนเชี่ยวหลาน ล่องชมเขาสามเกลอแบบส่วนตัว เลือกเข้าถ้ำปะการังหรือถ้ำเพชร และปรับโปรแกรมได้ตามต้องการ"
+  },
+  "duration": {
+    "en": "Full day",
+    "th": "เต็มวัน"
+  },
+  "price": {
+    "en": "฿9,000 (see notes)",
+    "th": "฿9,000 (ดูหมายเหตุ)"
+  },
+  "price_1pax": null,
+  "price_2pax": 9000,
+  "highlights": {
+    "en": [
+      "Exclusive private boat",
+      "“Guilin of Thailand” limestone rocks",
+      "Coral Cave or Diamond Cave",
+      "Flexible VIP itinerary"
+    ],
+    "th": [
+      "เรือส่วนตัว",
+      "เขาสามเกลอ (“กิ๋หลินเมืองไทย”)",
+      "ถ้ำปะการังหรือถ้ำเพชร",
+      "ปรับโปรแกรมได้"
+    ]
+  },
+  "includes": {
+    "en": [
+      "Private boat for the day",
+      "Itinerary flexible around Coral Cave or Diamond Cave"
+    ],
+    "th": [
+      "เรือส่วนตัวตลอดวัน",
+      "เลือกโปรแกรมถ้ำปะการังหรือถ้ำเพชรได้"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park and pier fees (paid directly; see the join-in lake tours for typical amounts).",
+      "Meals, guide or extras that are not agreed when you book.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าเข้าอุทยานและค่าธรรมเนียมท่าเรือ (จ่ายเอง ดูตัวอย่างได้จากทัวร์ร่วมชมเขื่อน)",
+      "อาหาร ไกด์ หรือรายการเพิ่มที่ไม่ได้ตกลงตอนจอง",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "notes": {
+    "en": "The master price table lists ฿9,000 in the 2-person column and no 1-person rate. A more detailed private-tour flyer (with possible group-size rates such as ฿9,000 / ฿8,000 / ฿7,000 per person) was not among the files we could open. Please confirm the rate for your group size.",
+    "th": "ตารางราคาหลักระบุ ฿9,000 ในคอลัมน์ 2 ท่าน และไม่มีราคา 1 ท่าน ใบโปรแกรมทัวร์ส่วนตัวฉบับละเอียด (ซึ่งอาจมีราคาตามจำนวนคน เช่น ฿9,000 / ฿8,000 / ฿7,000 ต่อท่าน) ยังไม่ได้เปิดในไฟล์ที่ได้รับ กรุณายืนยันราคาตามจำนวนผู้ร่วมทริป"
+  },
+  "photos_ok": true
+}

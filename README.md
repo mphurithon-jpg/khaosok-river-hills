@@ -6,7 +6,7 @@ Static bilingual (English / ไทย) site. No server, no online payment – bo
 **Preview:** `cd dist && python3 -m http.server 8080` then open http://localhost:8080
 **Cloudflare Pages:** Build command `node build.js`, Build output directory `dist`.
 
-⚠ All prices, phone, LINE ID and email are PLACEHOLDERS. Edit `content/settings.json` and each `info.json`.
+⚠ Room prices are still sample figures. Tour and listed transfer prices, plus WhatsApp numbers, are from the resort’s current list. Edit `content/settings.json` and each `info.json`.
 
 ---
 ## English – how to manage photos and items (no coding needed)

@@ -1,0 +1,31 @@
+{
+  "order": 1,
+  "name": {
+    "en": "Shared van: Khao Sok to Phuket",
+    "th": "รถตู้ร่วม: เขาสก–ภูเก็ต"
+  },
+  "description": {
+    "en": "Hotel-to-hotel shared van from Khao Sok toward Phuket, with stops at Khao Lak, Phuket Airport, Phuket Town and the beaches. Two daily departures.",
+    "th": "รถตู้ร่วมจากเขาสกไปภูเก็ต รับส่งที่โรงแรม แวะเขาหลัก สนามบินภูเก็ต ตัวเมืองภูเก็ต และหาดต่างๆ ออกวันละ 2 รอบ"
+  },
+  "duration": {
+    "en": "Departures at 08:30 and 14:30",
+    "th": "ออกรอบ 08:30 น. และ 14:30 น."
+  },
+  "price": {
+    "en": "From ฿500 / person (Khao Lak) to ฿900 / person (Phuket beaches)",
+    "th": "ตั้งแต่ ฿500 / ท่าน (เขาหลัก) ถึง ฿900 / ท่าน (หาดภูเก็ต)"
+  },
+  "features": {
+    "en": [
+      "Hotel-to-hotel",
+      "08:30 and 14:30 departures",
+      "+฿100 per large suitcase"
+    ],
+    "th": [
+      "รับส่งที่โรงแรม",
+      "ออกรอบ 08:30 และ 14:30 น.",
+      "กระเป๋าใบใหญ่เพิ่ม ฿100 / ใบ"
+    ]
+  }
+}

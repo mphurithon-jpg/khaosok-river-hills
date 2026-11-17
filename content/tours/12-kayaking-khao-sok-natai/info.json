@@ -1,0 +1,63 @@
+{
+  "order": 12,
+  "category": {
+    "en": "River Activities",
+    "th": "กิจกรรมทางน้ำ"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Kayaking: Khao Sok to Natai",
+    "th": "คายัก: เขาสก–นาใต้"
+  },
+  "description": {
+    "en": "Paddle a small kayak along a quiet jungle canal, with a chance to see long-tailed macaques and tropical birds, and time to swim in clear water. Start at Khao Sok National Park (or nearby) and finish at Natai.",
+    "th": "พายคายักเล็กๆ ตามคลองป่าที่เงียบสงบ อาจได้เห็นลิงแสมและนกเมืองร้อน และมีเวลาว่ายน้ำในน้ำใส ออกจากอุทยานแห่งชาติเขาสก (หรือใกล้เคียง) จบที่นาใต้"
+  },
+  "duration": {
+    "en": "45 minutes · about 4 km",
+    "th": "45 นาที · ประมาณ 4 กม."
+  },
+  "price": {
+    "en": "฿700 / person",
+    "th": "฿700 / ท่าน"
+  },
+  "price_1pax": 700,
+  "price_2pax": null,
+  "highlights": {
+    "en": [
+      "Jungle canal paddle",
+      "Wildlife spotting",
+      "Optional swim"
+    ],
+    "th": [
+      "พายตามคลองป่า",
+      "ชมสัตว์ป่า",
+      "ว่ายน้ำได้ตามต้องการ"
+    ]
+  },
+  "includes": {
+    "en": [
+      "Option to paddle yourself, or have a local guide paddle for you at no extra charge",
+      "Cold drinking water and refreshments during the trip",
+      "Life jackets and safety equipment",
+      "Free round-trip transfer from hotels or accommodations in the Khao Sok area"
+    ],
+    "th": [
+      "เลือกพายเอง หรือให้ไกด์ท้องถิ่นพายให้โดยไม่มีค่าใช้จ่ายเพิ่ม",
+      "น้ำดื่มเย็นและของว่างระหว่างทริป",
+      "เสื้อชูชีพและอุปกรณ์ความปลอดภัย",
+      "รถรับส่งฟรีไป-กลับจากที่พักในพื้นที่เขาสก"
+    ]
+  },
+  "times": {
+    "en": "Tour times: 09:30, 11:30 and 15:00.",
+    "th": "รอบออกเดินทาง: 09:30, 11:30 และ 15:00 น."
+  },
+  "notes": {
+    "en": "The first route is 4 km on the kayaking flyer and 5 km on the master table. Prices are written as a single per-person rate (not split 1 vs 2 adults).",
+    "th": "เส้นทางแรกในใบคายักยาว 4 กม. แต่ตารางราคาหลักเขียน 5 กม. ราคาเป็นเรทต่อท่าน (ไม่ได้แยก 1 กับ 2 คน)"
+  }
+}

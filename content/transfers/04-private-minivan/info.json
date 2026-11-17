@@ -1,0 +1,15 @@
+{
+  "order": 4,
+  "name": {
+    "en": "Private mini van",
+    "th": "รถตู้ส่วนตัว"
+  },
+  "description": {
+    "en": "Private minivan, priced per vehicle per way, to airports and towns around southern Thailand. Message us on WhatsApp with your date, time and destination for a quote.",
+    "th": "รถตู้ส่วนตัว ราคาต่อคันต่อเที่ยว ไปสนามบินและเมืองต่างๆ ในภาคใต้ แจ้งวัน เวลา และปลายทางมาทาง WhatsApp เพื่อขอใบเสนอราคา"
+  },
+  "price": {
+    "en": "Quote on request (priced per way)",
+    "th": "สอบถามราคา (คิดต่อเที่ยว)"
+  }
+}

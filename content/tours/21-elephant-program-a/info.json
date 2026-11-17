@@ -1,0 +1,41 @@
+{
+  "order": 21,
+  "category": {
+    "en": "Elephant Experience",
+    "th": "กิจกรรมช้าง"
+  },
+  "type": {
+    "en": "Activity",
+    "th": "กิจกรรม"
+  },
+  "name": {
+    "en": "Half-day elephant care (Program A)",
+    "th": "ดูแลช้างครึ่งวัน (โปรแกรม A)"
+  },
+  "description": {
+    "en": "A half-day elephant-care program: feed the elephants, help make vitamins, enjoy a mud spa and bathe with the elephants.",
+    "th": "โปรแกรมดูแลช้างครึ่งวัน ให้อาหาร ช่วยทำวิตามิน เล่นโคลน และอาบน้ำกับช้าง"
+  },
+  "duration": {
+    "en": "3–3.5 hours",
+    "th": "3–3.5 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿2,500 adult · ฿1,800 child",
+    "th": "฿2,500 ผู้ใหญ่ · ฿1,800 เด็ก"
+  },
+  "highlights": {
+    "en": [
+      "Feed and make vitamins",
+      "Mud spa and bathing"
+    ],
+    "th": [
+      "ให้อาหารและทำวิตามิน",
+      "สปาโคลนและอาบน้ำกับช้าง"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table. A full elephant-centre itinerary flyer was not among the files we could open. This is typically run with a partner; we do not publish third-party brochure photos.",
+    "th": "รายละเอียดจากตารางราคาหลัก ยังไม่มีใบโปรแกรมศูนย์ช้างฉบับเต็มในไฟล์ที่ได้รับ โดยทั่วไปจัดร่วมกับพันธมิตร และเราไม่ใช้รูปจากโบรชัวร์ของที่อื่น"
+  }
+}

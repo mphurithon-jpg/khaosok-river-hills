@@ -1,0 +1,43 @@
+{
+  "order": 10,
+  "category": {
+    "en": "River Activities",
+    "th": "กิจกรรมทางน้ำ"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Tubing on the Sok River",
+    "th": "ล่องห่วงยางแม่น้ำซก"
+  },
+  "description": {
+    "en": "Float down the Sok River on a rubber ring, through currents in the jungle.",
+    "th": "ล่องห่วงยางไปตามแม่น้ำซก ผ่านช่วงน้ำไหลท่ามกลางป่า"
+  },
+  "duration": {
+    "en": "1–2 hours",
+    "th": "1–2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿600 / person (1 adult) · ฿500 / person (2 adults)",
+    "th": "฿600 / ท่าน (1 คน) · ฿500 / ท่าน (2 คน)"
+  },
+  "price_1pax": 600,
+  "price_2pax": 500,
+  "highlights": {
+    "en": [
+      "Float down the river on a rubber ring",
+      "Currents and jungle scenery"
+    ],
+    "th": [
+      "ล่องห่วงยางตามแม่น้ำ",
+      "ช่วงน้ำไหลและวิวป่า"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table. A more detailed flyer was not among the files we could open.",
+    "th": "รายละเอียดจากตารางราคาหลัก ยังไม่มีใบโปรแกรมละเอียดในไฟล์ที่ได้รับ"
+  }
+}

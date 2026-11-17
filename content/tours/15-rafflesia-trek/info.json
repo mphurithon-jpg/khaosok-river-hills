@@ -1,0 +1,75 @@
+{
+  "order": 15,
+  "category": {
+    "en": "Jungle Trekking",
+    "th": "เดินป่า"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Rafflesia in the Khao Sok jungle",
+    "th": "เดินป่าดูดอกบัวผุด (ราฟฟลีเซีย) เขาสก"
+  },
+  "description": {
+    "en": "A deep-jungle walk to look for Rafflesia, the world’s largest flower — up to 90 cm across and about 7 kg, with a strong smell that lasts only 3–4 days. Three species grow in Khao Sok. Sightings are never guaranteed.",
+    "th": "เดินป่าลึกเพื่อหาดอกบัวผุด ดอกไม้ที่ใหญ่ที่สุดในโลก กว้างได้ถึง 90 ซม. หนักประมาณ 7 กก. มีกลิ่นแรง และบานเพียง 3–4 วัน ที่เขาสกมี 3 ชนิด การพบดอกไม่ได้การันตี"
+  },
+  "duration": {
+    "en": "2–4 hours",
+    "th": "2–4 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿800 / person (2 adults) · starts from 2 people",
+    "th": "฿800 / ท่าน (2 คน) · เริ่มที่ 2 ท่าน"
+  },
+  "price_1pax": null,
+  "price_2pax": 800,
+  "highlights": {
+    "en": [
+      "Trek to look for Rafflesia",
+      "Deep jungle trail"
+    ],
+    "th": [
+      "เดินป่าหาดอกบัวผุด",
+      "เส้นทางป่าลึก"
+    ]
+  },
+  "includes": {
+    "en": [
+      "English-speaking local guide",
+      "Drinking water",
+      "Transfer"
+    ],
+    "th": [
+      "ไกด์ท้องถิ่นภาษาอังกฤษ",
+      "น้ำดื่ม",
+      "รถรับส่ง"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "Khao Sok National Park entry fee of ฿200 per person (typical foreign-visitor rate), paid separately, unless a booking says otherwise.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าเข้าอุทยานแห่งชาติเขาสก ฿200 ต่อท่าน (เรทชาวต่างชาติโดยทั่วไป) จ่ายแยก เว้นแต่การจองจะระบุเป็นอย่างอื่น",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Trekking shoes",
+      "Sun and mosquito protection"
+    ],
+    "th": [
+      "รองเท้าเดินป่า",
+      "กันแดดและกันยุง"
+    ]
+  },
+  "notes": {
+    "en": "Priced from the flyer and table: ฿800 per person, starting from 2 people, plus ฿200 park fee. A poster we did not have as a file may list ฿1,500 / ฿800.",
+    "th": "ราคาตามใบโปรแกรมและตาราง: ฿800 ต่อท่าน เริ่มที่ 2 คน บวกค่าอุทยาน ฿200 โปสเตอร์ที่ยังไม่มีไฟล์อาจระบุ ฿1,500 / ฿800"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "order": 4,
+  "category": {
+    "en": "Lake Tour",
+    "th": "ทัวร์เขื่อนเชี่ยวหลาน"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Full-day Lake Tour — Diamond Cave",
+    "th": "ทัวร์เขื่อนเชี่ยวหลาน 1 วัน — ถ้ำเพชร"
+  },
+  "description": {
+    "en": "A full day on Cheow Lan Lake: long-tail boat to the three limestone rocks (Khao Sam Kler, the “Guilin of Thailand”), an easy walk into Diamond Cave, a swamp-forest trek, lunch at a floating raft house, then swimming or kayaking.",
+    "th": "ทัวร์เต็มวันที่เขื่อนเชี่ยวหลาน นั่งเรือหางยาวไปเขาสามเกลอ (กิ๋หลินเมืองไทย) เดินเข้าถ้ำเพชรทางง่าย เดินป่าพรุ รับประทานอาหารกลางวันที่แพ แล้วว่ายน้ำหรือพายคายัก"
+  },
+  "duration": {
+    "en": "Full day",
+    "th": "เต็มวัน"
+  },
+  "price": {
+    "en": "฿1,600 / person (1 adult) · ฿1,600 / person (2 adults)",
+    "th": "฿1,600 / ท่าน (1 คน) · ฿1,600 / ท่าน (2 คน)"
+  },
+  "price_1pax": 1600,
+  "price_2pax": 1600,
+  "highlights": {
+    "en": [
+      "Long-tail boat to the “Guilin of Thailand”",
+      "Easy walk into Diamond Cave",
+      "Lunch on a floating raft"
+    ],
+    "th": [
+      "เรือหางยาวไปชมเขาสามเกลอ (“กิ๋หลินเมืองไทย”)",
+      "เดินเข้าถ้ำเพชรง่าย",
+      "อาหารกลางวันที่แพ"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "08:30–08:45",
+        "text": "Pick-up from the hotel to Ratchaprapha Dam (Cheow Lan Lake)."
+      },
+      {
+        "time": "09:30",
+        "text": "Arrive at Ratchaprapha Dam pier."
+      },
+      {
+        "time": "10:00",
+        "text": "Long-tail boat onto the lake to enjoy the limestone scenery."
+      },
+      {
+        "time": "10:45",
+        "text": "Arrive at the highlight of the lake — the three limestone rocks — for photos, then continue by boat toward the cave."
+      },
+      {
+        "time": "11:00",
+        "text": "Arrive at Diamond Cave (stalactites and stalagmites) and explore for about 30 minutes. This is an easy, relaxing trail and is described as child-friendly."
+      },
+      {
+        "time": "11:30",
+        "text": "Finish caving and take a short boat (about 10 minutes) to the trekking start. Trek through swamp forest (about 30 minutes each way)."
+      },
+      {
+        "time": "12:30",
+        "text": "Finish the trek and boat to a floating restaurant."
+      },
+      {
+        "time": "12:45",
+        "text": "Arrive at the floating restaurant for lunch and a rest."
+      },
+      {
+        "time": "13:30",
+        "text": "Free time: swimming, kayaking or sunbathing for 1–2 hours."
+      },
+      {
+        "time": "15:30",
+        "text": "Depart the floating restaurant back to the lake pier."
+      },
+      {
+        "time": "16:30",
+        "text": "Arrive at the pier and transfer by minivan to Khao Sok."
+      },
+      {
+        "time": "17:30",
+        "text": "Arrive back at the hotel."
+      }
+    ],
+    "th": [
+      {
+        "time": "08:30–08:45",
+        "text": "รับจากที่พักไปเขื่อนรัชชประภา (เขื่อนเชี่ยวหลาน)"
+      },
+      {
+        "time": "09:30",
+        "text": "ถึงท่าเรือเขื่อนรัชชประภา"
+      },
+      {
+        "time": "10:00",
+        "text": "นั่งเรือหางยาวชมวิวเขาหินปูน"
+      },
+      {
+        "time": "10:45",
+        "text": "ถึงจุดเด่นของเขื่อน — เขาสามเกลอ — ถ่ายรูป แล้วนั่งเรือต่อไปยังถ้ำ"
+      },
+      {
+        "time": "11:00",
+        "text": "ถึงถ้ำเพชร (หินงอกหินย้อย) ชมถ้ำประมาณ 30 นาที เส้นทางง่าย ใบโปรแกรมระบุว่าเหมาะกับเด็ก"
+      },
+      {
+        "time": "11:30",
+        "text": "ออกจากถ้ำ นั่งเรือสั้นๆ (ประมาณ 10 นาที) ไปจุดเริ่มเดินป่า เดินป่าพรุประมาณ 30 นาทีไป-กลับ"
+      },
+      {
+        "time": "12:30",
+        "text": "จบการเดินป่า นั่งเรือไปร้านอาหารแพ"
+      },
+      {
+        "time": "12:45",
+        "text": "ถึงแพ รับประทานอาหารกลางวันและพักผ่อน"
+      },
+      {
+        "time": "13:30",
+        "text": "เวลาว่าง 1–2 ชั่วโมง ว่ายน้ำ พายคายัก หรืออาบแดด"
+      },
+      {
+        "time": "15:30",
+        "text": "ออกจากแพกลับท่าเรือ"
+      },
+      {
+        "time": "16:30",
+        "text": "ถึงท่าเรือ แล้วขึ้นรถตู้กลับเขาสก"
+      },
+      {
+        "time": "17:30",
+        "text": "ถึงที่พัก"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "English-speaking guide",
+      "Transport",
+      "Drinking water",
+      "Lunch",
+      "Kayaks"
+    ],
+    "th": [
+      "ไกด์ภาษาอังกฤษ",
+      "รถรับส่ง",
+      "น้ำดื่ม",
+      "อาหารกลางวัน",
+      "คายัก"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park admission, paid directly to park officers (the flyer lists about ฿300 adult / ฿150 child under 14, and also writes the exclusion as ฿300+฿40 per person).",
+      "Local pier fee of ฿20 per person.",
+      "Personal expenses. A 1-day lake flyer also shows ฿1,500 per person; the master price table, used here, is ฿1,600."
+    ],
+    "th": [
+      "ค่าเข้าอุทยาน จ่ายให้นายอุทยานโดยตรง (ใบโปรแกรมระบุประมาณ ฿300 ผู้ใหญ่ / ฿150 เด็กต่ำกว่า 14 ปี และอีกจุดเขียนว่า ฿300+฿40 ต่อท่าน)",
+      "ค่าธรรมเนียมท่าเรือท้องถิ่น ฿20 ต่อท่าน",
+      "ค่าใช้จ่ายส่วนตัว ใบโปรแกรมทัวร์ 1 วันใบหนึ่งระบุ ฿1,500 ต่อท่าน แต่ตารางราคาหลักที่ใช้ในหน้านี้เป็น ฿1,600"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Comfortable day clothes and a bathing suit",
+      "A dry set of clothes for after swimming",
+      "Small towel",
+      "Closed-toe shoes for caving and trekking; flip-flops for free time or on the boat",
+      "Torch or headlamp",
+      "Mosquito repellent",
+      "Sunscreen and sunglasses",
+      "Waterproof bag if you have one",
+      "Camera and batteries",
+      "Money for personal expenses and park fees"
+    ],
+    "th": [
+      "เสื้อผ้าสบายสำหรับกลางวันและชุดว่ายน้ำ",
+      "ชุดแห้งสำรองหลังว่ายน้ำ",
+      "ผ้าเช็ดตัวผืนเล็ก",
+      "รองเท้าหุ้มปลายสำหรับเข้าถ้ำและเดินป่า และรองเท้าแตะสำหรับเวลาว่างหรือบนเรือ",
+      "ไฟฉายหรือไฟฉายสวมหัว",
+      "ยาไล่ยุง",
+      "ครีมกันแดดและแว่นกันแดด",
+      "กระเป๋ากันน้ำ (ถ้ามี)",
+      "กล้องและแบตเตอรี่",
+      "เงินสำหรับค่าใช้จ่ายส่วนตัวและค่าเข้าอุทยาน"
+    ]
+  },
+  "notes": {
+    "en": "The program may change slightly with the weather. On the way to the lake there is a short stop at 7-Eleven for cash, snacks and supplies.",
+    "th": "โปรแกรมอาจปรับเล็กน้อยตามสภาพอากาศ ระหว่างทางไปเขื่อนจะแวะ 7-Eleven สั้นๆ สำหรับกดเงิน สองและของจำเป็น"
+  }
+}

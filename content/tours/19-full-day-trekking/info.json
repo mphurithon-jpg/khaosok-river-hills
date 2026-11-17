@@ -1,0 +1,129 @@
+{
+  "order": 19,
+  "category": {
+    "en": "Jungle Trekking",
+    "th": "เดินป่า"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Khao Sok full-day trekking",
+    "th": "เดินป่าเต็มวันเขาสก"
+  },
+  "description": {
+    "en": "A deeper jungle day with a local guide: Bang Hua Rad waterfall, lunch at Wang Yao, then Tang Nam — a pool carved through the mountain, perfect for a swim.",
+    "th": "เดินป่าลึกทั้งวันกับไกด์ท้องถิ่น น้ำตกบังหัวราด อาหารกลางวันที่วังยาว แล้วไปถ้ำน้ำ ซึ่งเป็นแอ่งน้ำที่น้ำเซาะผ่านภูเขา เหมาะแก่การว่ายน้ำ"
+  },
+  "duration": {
+    "en": "5–7 hours",
+    "th": "5–7 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿2,400 / person (1 adult) · ฿1,800 / person (2 adults)",
+    "th": "฿2,400 / ท่าน (1 คน) · ฿1,800 / ท่าน (2 คน)"
+  },
+  "price_1pax": 2400,
+  "price_2pax": 1800,
+  "highlights": {
+    "en": [
+      "Deep jungle trek",
+      "Jungle lunch",
+      "Higher waterfall and swimming pools"
+    ],
+    "th": [
+      "เดินป่าลึก",
+      "อาหารกลางวันในป่า",
+      "น้ำตกและแอ่งว่ายน้ำ"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "08:30",
+        "text": "Start trekking through the rainforest with a local guide."
+      },
+      {
+        "time": "10:30",
+        "text": "Bang Hua Rad waterfall, through dense rainforest."
+      },
+      {
+        "time": "11:30",
+        "text": "Wang Yao — a river in the forest. Lunch here, then time to swim and relax."
+      },
+      {
+        "time": "13:00",
+        "text": "Trekking to Tang Nam, a pool formed by water carving through a mountain, with a waterfall and a deep swimming pool."
+      },
+      {
+        "time": "15:00",
+        "text": "Return to the trail headquarters."
+      },
+      {
+        "time": "16:30",
+        "text": "Arrive at the resort."
+      }
+    ],
+    "th": [
+      {
+        "time": "08:30",
+        "text": "เริ่มเดินป่ากับไกด์ท้องถิ่น"
+      },
+      {
+        "time": "10:30",
+        "text": "น้ำตกบังหัวราด ผ่านป่าดิบชื้นหนาทึบ"
+      },
+      {
+        "time": "11:30",
+        "text": "วังยาว — ลำธารในป่า รับประทานอาหารกลางวัน แล้วว่ายน้ำพักผ่อนได้"
+      },
+      {
+        "time": "13:00",
+        "text": "เดินต่อไปยังถ้ำน้ำ แอ่งน้ำที่น้ำเซาะผ่านภูเขา มีน้ำตกและสระลึกสำหรับว่ายน้ำ"
+      },
+      {
+        "time": "15:00",
+        "text": "กลับที่ทำการเส้นทาง"
+      },
+      {
+        "time": "16:30",
+        "text": "ถึงรีสอร์ท"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "Local guide",
+      "Drinking water",
+      "Lunch"
+    ],
+    "th": [
+      "ไกด์ท้องถิ่น",
+      "น้ำดื่ม",
+      "อาหารกลางวัน"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park fee of ฿200 per person.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าเข้าอุทยาน ฿200 ต่อท่าน",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Trekking shoes",
+      "Sun and mosquito protection",
+      "Swimwear"
+    ],
+    "th": [
+      "รองเท้าเดินป่า",
+      "กันแดดและกันยุง",
+      "ชุดว่ายน้ำ"
+    ]
+  }
+}

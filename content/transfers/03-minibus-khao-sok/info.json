@@ -1,0 +1,31 @@
+{
+  "order": 3,
+  "name": {
+    "en": "Mini bus from Khao Sok",
+    "th": "มินิบัสจากเขาสก"
+  },
+  "description": {
+    "en": "Scheduled mini-bus departures from Khao Sok at 06:30, 08:00, 09:00, 10:00, 12:00 and 16:00. Pick-up is 30 minutes before departure. A surcharge may apply for large luggage. Ask us for destinations, fares, and the Cheow Lan Pier timetable.",
+    "th": "มินิบัสจากเขาสกออกเวลา 06:30, 08:00, 09:00, 10:00, 12:00 และ 16:00 น. รับผู้โดยสารก่อนออก 30 นาที กระเป๋าใบใหญ่อาจมีค่าใช้จ่ายเพิ่ม สอบถามปลายทาง ราคา และตารางจากท่าเรือเชี่ยวหลานได้เลย"
+  },
+  "duration": {
+    "en": "Timetable effective 11 April 2026",
+    "th": "ตารางเวลามีผลตั้งแต่วันที่ 11 เมษายน 2026"
+  },
+  "price": {
+    "en": "Ask us for the fare to your destination",
+    "th": "สอบถามราคาไปยังปลายทางของท่าน"
+  },
+  "features": {
+    "en": [
+      "Departures: 06:30, 08:00, 09:00, 10:00, 12:00, 16:00",
+      "Pick-up 30 minutes before departure",
+      "Effective 11 April 2026"
+    ],
+    "th": [
+      "รอบออก: 06:30, 08:00, 09:00, 10:00, 12:00, 16:00 น.",
+      "รับก่อนออก 30 นาที",
+      "มีผล 11 เมษายน 2026"
+    ]
+  }
+}

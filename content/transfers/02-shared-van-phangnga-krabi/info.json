@@ -1,0 +1,15 @@
+{
+  "order": 2,
+  "name": {
+    "en": "Shared van: Phang Nga and Krabi",
+    "th": "รถตู้ร่วม: พังงาและกระบี่"
+  },
+  "description": {
+    "en": "Shared vans also run from Khao Sok to Phang Nga and Krabi. Fares are typically about ฿350–1,200 depending on the destination. Message us for times and the fare to your hotel.",
+    "th": "มีรถตู้ร่วมจากเขาสกไปพังงาและกระบี่ ค่าโดยสารโดยประมาณ ฿350–1,200 ตามปลายทาง สอบถามรอบรถและราคาไปที่พักได้เลย"
+  },
+  "price": {
+    "en": "About ฿350–1,200 / person, depending on destination",
+    "th": "ประมาณ ฿350–1,200 / ท่าน ตามปลายทาง"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "order": 2,
+  "category": {
+    "en": "Lake Tour",
+    "th": "ทัวร์เขื่อนเชี่ยวหลาน"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Overnight Lake Tour (shared bathroom)",
+    "th": "ทัวร์เขื่อนเชี่ยวหลานค้างคืน (ห้องน้ำรวม)"
+  },
+  "description": {
+    "en": "Two days and one night on Cheow Lan Lake: long-tail sightseeing, a jungle trek, bamboo rafting into Coral Cave, kayaking, an evening and morning safari, and a night in a basic floating bungalow with a shared bathroom.",
+    "th": "2 วัน 1 คืนที่เขื่อนเชี่ยวหลาน นั่งเรือหางยาว เดินป่า ล่องแพเข้าถ้ำปะการัง พายคายัก ซาฟารีเย็นและเช้า และค้างคืนแพพักพื้นฐานแบบห้องน้ำรวม"
+  },
+  "duration": {
+    "en": "2 days 1 night",
+    "th": "2 วัน 1 คืน"
+  },
+  "price": {
+    "en": "฿3,200 / person (1 adult) · ฿2,500 / person (2 adults)",
+    "th": "฿3,200 / ท่าน (1 คน) · ฿2,500 / ท่าน (2 คน)"
+  },
+  "price_1pax": 3200,
+  "price_2pax": 2500,
+  "highlights": {
+    "en": [
+      "Night in a floating raft bungalow (fan, shared bathroom)",
+      "Boat tour, bamboo rafting and cave trek",
+      "Morning safari on the lake"
+    ],
+    "th": [
+      "ค้างคืนแพพัก (พัดลม ห้องน้ำรวม)",
+      "นั่งเรือ ล่องแพไม้ไผ่ และเดินเข้าถ้ำ",
+      "ซาฟารีเช้าบนเขื่อน"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "Day 1 · 09:00",
+        "text": "Depart the hotel for Ratchaprapha Dam (Cheow Lan Lake)."
+      },
+      {
+        "time": "10:00",
+        "text": "Long-tail boat onto the lake to enjoy the limestone scenery."
+      },
+      {
+        "time": "11:00",
+        "text": "Arrive at the floating raft house, check in, and enjoy free time — swimming, kayaking or sunbathing."
+      },
+      {
+        "time": "12:30",
+        "text": "Lunch."
+      },
+      {
+        "time": "14:30",
+        "text": "Jungle trek to a lagoon (about 30–45 minutes), then a short bamboo raft (about 10 minutes) into Coral Cave to see stalactites and stalagmites (about 45 minutes)."
+      },
+      {
+        "time": "15:30",
+        "text": "Return by bamboo raft and trek back to the long-tail boat."
+      },
+      {
+        "time": "16:30",
+        "text": "Long-tail boat to explore the lake; evening safari."
+      },
+      {
+        "time": "17:30",
+        "text": "Back to the raft house. Free time."
+      },
+      {
+        "time": "19:00",
+        "text": "Dinner."
+      },
+      {
+        "time": "Day 2 · 06:30",
+        "text": "Morning safari by boat — you may see gibbons or, if you are lucky, wild elephants."
+      },
+      {
+        "time": "08:00",
+        "text": "Breakfast."
+      },
+      {
+        "time": "09:30",
+        "text": "Check out."
+      },
+      {
+        "time": "10:00",
+        "text": "Long-tail boat back to the pier (about 45–60 minutes)."
+      },
+      {
+        "time": "11:00",
+        "text": "Arrive at the main pier, then drive to a restaurant."
+      },
+      {
+        "time": "11:30",
+        "text": "Lunch."
+      },
+      {
+        "time": "12:30",
+        "text": "Drive back to Khao Sok."
+      },
+      {
+        "time": "13:30",
+        "text": "Arrive at the hotel. End of service."
+      }
+    ],
+    "th": [
+      {
+        "time": "วันที่ 1 · 09:00",
+        "text": "ออกจากที่พักไปเขื่อนรัชชประภา (เขื่อนเชี่ยวหลาน)"
+      },
+      {
+        "time": "10:00",
+        "text": "นั่งเรือหางยาวชมวิวเขาหินปูน"
+      },
+      {
+        "time": "11:00",
+        "text": "ถึงแพพัก เช็กอิน แล้วมีเวลาว่าง ว่ายน้ำ พายคายัก หรืออาบแดด"
+      },
+      {
+        "time": "12:30",
+        "text": "อาหารกลางวัน"
+      },
+      {
+        "time": "14:30",
+        "text": "เดินป่าไปลากูน (ประมาณ 30–45 นาที) แล้วล่องแพไม้ไผ่สั้นๆ (ประมาณ 10 นาที) เข้าถ้ำปะการัง ชมหินงอกหินย้อย (ประมาณ 45 นาที)"
+      },
+      {
+        "time": "15:30",
+        "text": "ล่องแพและเดินทางกลับเรือหางยาว"
+      },
+      {
+        "time": "16:30",
+        "text": "นั่งเรือชมเขื่อนและซาฟารีเย็น"
+      },
+      {
+        "time": "17:30",
+        "text": "กลับแพพัก เวลาว่าง"
+      },
+      {
+        "time": "19:00",
+        "text": "อาหารเย็น"
+      },
+      {
+        "time": "วันที่ 2 · 06:30",
+        "text": "ซาฟารีเช้าด้วยเรือ อาจได้เห็นชะนี หรือถ้าโชคดีจะได้เห็นช้างป่า"
+      },
+      {
+        "time": "08:00",
+        "text": "อาหารเช้า"
+      },
+      {
+        "time": "09:30",
+        "text": "เช็กเอาต์"
+      },
+      {
+        "time": "10:00",
+        "text": "นั่งเรือหางยาวกลับท่าเรือ (ประมาณ 45–60 นาที)"
+      },
+      {
+        "time": "11:00",
+        "text": "ถึงท่าเรือหลัก แล้วเดินทางไปร้านอาหาร"
+      },
+      {
+        "time": "11:30",
+        "text": "อาหารกลางวัน"
+      },
+      {
+        "time": "12:30",
+        "text": "ขับรถกลับเขาสก"
+      },
+      {
+        "time": "13:30",
+        "text": "ถึงที่พัก จบโปรแกรม"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "English-speaking guide",
+      "Transport",
+      "4 meals (2 lunches, 1 dinner, 1 breakfast)",
+      "Drinking water",
+      "Kayaks",
+      "1 night in a shared-bathroom floating bungalow"
+    ],
+    "th": [
+      "ไกด์ภาษาอังกฤษ",
+      "รถรับส่ง",
+      "อาหาร 4 มื้อ (กลางวัน 2 เย็น 1 เช้า 1)",
+      "น้ำดื่ม",
+      "คายัก",
+      "ที่พักแพ 1 คืน แบบห้องน้ำรวม"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park admission and pier fees (the flyer lists about ฿300+฿200+฿40 per person; one note also says ฿310 adult / ฿150 child under 14 at the lake pier, plus ฿200 adult / ฿100 child at the Coral Cave trail). Paid directly; amounts may change.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าเข้าอุทยานและค่าธรรมเนียมท่าเรือ (ใบโปรแกรมระบุประมาณ ฿300+฿200+฿40 ต่อท่าน และอีกจุดระบุ ฿310 ผู้ใหญ่ / ฿150 เด็กต่ำกว่า 14 ปี ที่ท่าเรือเขื่อน บวก ฿200 ผู้ใหญ่ / ฿100 เด็ก ที่ทางเดินถ้ำปะการัง) จ่ายเอง ณ จุดบริการ ราคาอาจเปลี่ยนได้",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Comfortable clothes for trekking and for sleep",
+      "Bathing suit and a dry set of clothes",
+      "Small towel",
+      "Trekking shoes; flip-flops for free time or on the boat",
+      "Toiletries",
+      "Torch or headlamp",
+      "Mosquito repellent",
+      "Snacks",
+      "Camera and batteries",
+      "Sunscreen and sunglasses",
+      "Waterproof bag if you have one",
+      "Money for personal expenses"
+    ],
+    "th": [
+      "เสื้อผ้าสบายสำหรับเดินป่าและสำหรับนอน",
+      "ชุดว่ายน้ำและชุดแห้งสำรอง",
+      "ผ้าเช็ดตัวผืนเล็ก",
+      "รองเท้าเดินป่า และรองเท้าแตะสำหรับเวลาว่างหรือบนเรือ",
+      "ของใช้ส่วนตัว",
+      "ไฟฉายหรือไฟฉายสวมหัว",
+      "ยาไล่ยุง",
+      "ของว่าง",
+      "กล้องและแบตเตอรี่",
+      "ครีมกันแดดและแว่นกันแดด",
+      "กระเป๋ากันน้ำ (ถ้ามี)",
+      "เงินสำหรับค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "notes": {
+    "en": "The program may change slightly with the weather. Coral Cave has a moderately hard trail. The flyer describes the trip as child-friendly.",
+    "th": "โปรแกรมอาจปรับเล็กน้อยตามสภาพอากาศ เส้นทางเข้าถ้ำปะการังค่อนข้างยากปานกลาง ใบโปรแกรมระบุว่าเหมาะกับเด็ก"
+  }
+}

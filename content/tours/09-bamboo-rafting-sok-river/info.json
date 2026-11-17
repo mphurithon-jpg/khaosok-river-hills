@@ -1,0 +1,43 @@
+{
+  "order": 9,
+  "category": {
+    "en": "River Activities",
+    "th": "กิจกรรมทางน้ำ"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Bamboo rafting on the Sok River",
+    "th": "ล่องแพไม้ไผ่แม่น้ำซก"
+  },
+  "description": {
+    "en": "Classic bamboo rafting on the Sok River, with limestone cliffs and a chance to see wildlife.",
+    "th": "ล่องแพไม้ไผ่แบบคลาสสิกบนแม่น้ำซก ชมหน้าผาหินปูนและอาจได้เห็นสัตว์ป่า"
+  },
+  "duration": {
+    "en": "1–2 hours",
+    "th": "1–2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿800 / person (2 adults)",
+    "th": "฿800 / ท่าน (2 คน)"
+  },
+  "price_1pax": null,
+  "price_2pax": 800,
+  "highlights": {
+    "en": [
+      "Classic rafting on the Sok River",
+      "Limestone cliffs and wildlife"
+    ],
+    "th": [
+      "ล่องแพคลาสสิกบนแม่น้ำซก",
+      "หน้าผาหินปูนและสัตว์ป่า"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table. A separate itinerary flyer was not among the files we could open.",
+    "th": "รายละเอียดจากตารางราคาหลัก ยังไม่มีใบโปรแกรมแยกในไฟล์ที่ได้รับ"
+  }
+}

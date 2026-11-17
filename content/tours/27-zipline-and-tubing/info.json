@@ -1,0 +1,41 @@
+{
+  "order": 27,
+  "category": {
+    "en": "Adventure",
+    "th": "ผจญภัย"
+  },
+  "type": {
+    "en": "Activity",
+    "th": "กิจกรรม"
+  },
+  "name": {
+    "en": "22-platform zipline and scenic river tubing",
+    "th": "ซิปไลน์ 22 แพลตฟอร์มและล่องห่วงยาง"
+  },
+  "description": {
+    "en": "The 22-platform zipline journey combined with scenic river tubing.",
+    "th": "โปรแกรมซิปไลน์ 22 แพลตฟอร์ม คู่กับล่องห่วงยางชมวิว"
+  },
+  "duration": {
+    "en": "1.5–2 hours",
+    "th": "1.5–2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿2,200 adult · ฿1,900 child",
+    "th": "฿2,200 ผู้ใหญ่ · ฿1,900 เด็ก"
+  },
+  "highlights": {
+    "en": [
+      "Zipline canopy tour plus river tubing",
+      "Sky bridges, abseiling and limestone views"
+    ],
+    "th": [
+      "ซิปไลน์บนเรือนยอดไม้พร้อมล่องห่วงยาง",
+      "สะพานลอยฟ้า โรยตัว และวิวเขาหินปูน"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table. Duration on the table is the same 1.5–2 hours as the zipline-only program; please confirm whether tubing is additional time.",
+    "th": "รายละเอียดจากตารางราคาหลัก ระยะเวลาในตารางเท่ากับโปรแกรมซิปไลน์อย่างเดียว (1.5–2 ชั่วโมง) กรุณายืนยันว่าการล่องห่วงยางใช้เวลาเพิ่มหรือไม่"
+  }
+}

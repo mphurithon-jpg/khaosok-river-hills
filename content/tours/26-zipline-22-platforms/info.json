@@ -1,0 +1,43 @@
+{
+  "order": 26,
+  "category": {
+    "en": "Adventure",
+    "th": "ผจญภัย"
+  },
+  "type": {
+    "en": "Activity",
+    "th": "กิจกรรม"
+  },
+  "name": {
+    "en": "Khao Sok zipline — 22 platforms",
+    "th": "ซิปไลน์เขาสก 22 แพลตฟอร์ม"
+  },
+  "description": {
+    "en": "Fly through the rainforest canopy on a 22-platform zipline, with sky bridges and abseiling, and views of Khao Sok’s limestone mountains. Professional guides and safety equipment are included.",
+    "th": "โหนซิปไลน์ 22 แพลตฟอร์ม บนเรือนยอดไม้ พร้อมสะพานลอยฟ้าและโรยตัว ชมวิวเขาหินปูนเขาสก รวมไกด์มืออาชีพและอุปกรณ์ความปลอดภัย"
+  },
+  "duration": {
+    "en": "1.5–2 hours",
+    "th": "1.5–2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,900 adult · ฿1,600 child",
+    "th": "฿1,900 ผู้ใหญ่ · ฿1,600 เด็ก"
+  },
+  "highlights": {
+    "en": [
+      "22 platforms, sky bridges and abseiling",
+      "Canopy views of limestone mountains",
+      "Professional guides and safety equipment"
+    ],
+    "th": [
+      "22 แพลตฟอร์ม สะพานลอยฟ้า และโรยตัว",
+      "วิวเรือนยอดไม้และเขาหินปูน",
+      "ไกด์มืออาชีพและอุปกรณ์ความปลอดภัย"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table. This is typically a partner activity (for example a zipline park). We do not publish third-party brochure photos.",
+    "th": "รายละเอียดจากตารางราคาหลัก โดยทั่วไปเป็นกิจกรรมของพันธมิตร (เช่น สวนซิปไลน์) และเราไม่ใช้รูปจากโบรชัวร์ของที่อื่น"
+  }
+}

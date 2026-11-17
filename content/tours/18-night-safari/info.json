@@ -1,0 +1,101 @@
+{
+  "order": 18,
+  "category": {
+    "en": "Jungle Trekking",
+    "th": "เดินป่า"
+  },
+  "type": {
+    "en": "Join trip",
+    "th": "ทัวร์ร่วม"
+  },
+  "name": {
+    "en": "Khao Sok night safari",
+    "th": "เดินป่ากลางคืนเขาสก (ไนท์ซาฟารี)"
+  },
+  "description": {
+    "en": "A guided night walk in the rainforest with flashlights, looking for frogs, toads, snakes, insects, spiders, bats, owls and, if you are lucky, civets. Wildlife sightings are never guaranteed.",
+    "th": "เดินป่ากลางคืนกับไกด์ พร้อมไฟฉาย มองหากบ คางคก งู แมลง แมงมุม ค้างคาว นกฮูก และถ้าโชคดีอาจได้เห็นชะมด การพบสัตว์ไม่ได้การันตี"
+  },
+  "duration": {
+    "en": "About 2 hours",
+    "th": "ประมาณ 2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,500 / person (1 adult) · ฿800 / person (2 adults)",
+    "th": "฿1,500 / ท่าน (1 คน) · ฿800 / ท่าน (2 คน)"
+  },
+  "price_1pax": 1500,
+  "price_2pax": 800,
+  "highlights": {
+    "en": [
+      "Night walk for nocturnal wildlife",
+      "Frogs, insects, snakes and civets (if lucky)"
+    ],
+    "th": [
+      "เดินป่าดูสัตว์กลางคืน",
+      "กบ แมลง งู และชะมด (ถ้าโชคดี)"
+    ]
+  },
+  "itinerary": {
+    "en": [
+      {
+        "time": "18:30",
+        "text": "Meet your local guide and start the night safari."
+      },
+      {
+        "time": "20:30–21:00",
+        "text": "Return to the resort."
+      }
+    ],
+    "th": [
+      {
+        "time": "18:30",
+        "text": "พบไกด์ท้องถิ่นและเริ่มไนท์ซาฟารี"
+      },
+      {
+        "time": "20:30–21:00",
+        "text": "กลับรีสอร์ท"
+      }
+    ]
+  },
+  "includes": {
+    "en": [
+      "English-speaking local guide",
+      "Drinking water",
+      "Flashlight",
+      "Raincoat / poncho",
+      "Insurance"
+    ],
+    "th": [
+      "ไกด์ท้องถิ่นภาษาอังกฤษ",
+      "น้ำดื่ม",
+      "ไฟฉาย",
+      "เสื้อกันฝน / ผ้าคลุมกันฝน",
+      "ประกัน"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "National Park entrance fee of ฿200 per person.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ค่าเข้าอุทยาน ฿200 ต่อท่าน",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "bring": {
+    "en": [
+      "Trekking shoes or comfortable walking shoes",
+      "Mosquito repellent"
+    ],
+    "th": [
+      "รองเท้าเดินป่าหรือรองเท้าเดินสบาย",
+      "ยาไล่ยุง"
+    ]
+  },
+  "notes": {
+    "en": "Priced from the resort-branded night-safari flyer (฿1,500 / ฿800 + ฿200 park fee). The master table lists ฿1,400 / ฿700 for this program.",
+    "th": "ราคาตามใบโปรแกรมไนท์ซาฟารีของรีสอร์ท (฿1,500 / ฿800 + ค่าอุทยาน ฿200) ตารางราคาหลักระบุ ฿1,400 / ฿700 สำหรับรายการนี้"
+  }
+}

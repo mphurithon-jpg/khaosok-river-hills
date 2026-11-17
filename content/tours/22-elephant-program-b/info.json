@@ -1,0 +1,41 @@
+{
+  "order": 22,
+  "category": {
+    "en": "Elephant Experience",
+    "th": "กิจกรรมช้าง"
+  },
+  "type": {
+    "en": "Activity",
+    "th": "กิจกรรม"
+  },
+  "name": {
+    "en": "Elephant care (Program B)",
+    "th": "ดูแลช้าง (โปรแกรม B)"
+  },
+  "description": {
+    "en": "Feed the elephants, help prepare food, and join the bathing (no mud spa).",
+    "th": "ให้อาหารช้าง ช่วยเตรียมอาหาร และร่วมอาบน้ำให้ช้าง (ไม่มีสปาโคลน)"
+  },
+  "duration": {
+    "en": "2 hours",
+    "th": "2 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿1,500 adult · ฿1,000 child",
+    "th": "฿1,500 ผู้ใหญ่ · ฿1,000 เด็ก"
+  },
+  "highlights": {
+    "en": [
+      "Feed and prepare food",
+      "Bathing (no mud spa)"
+    ],
+    "th": [
+      "ให้อาหารและเตรียมอาหาร",
+      "อาบน้ำให้ช้าง (ไม่มีสปาโคลน)"
+    ]
+  },
+  "notes": {
+    "en": "Details are from the master price table.",
+    "th": "รายละเอียดจากตารางราคาหลัก"
+  }
+}

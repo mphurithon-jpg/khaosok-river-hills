@@ -1,0 +1,67 @@
+{
+  "order": 7,
+  "category": {
+    "en": "Private Lake Charter",
+    "th": "เช่าเรือส่วนตัวชมเขื่อน"
+  },
+  "type": {
+    "en": "Private charter",
+    "th": "เช่าเรือส่วนตัว"
+  },
+  "name": {
+    "en": "Private long-tail boat rental (boat and captain only)",
+    "th": "เช่าเรือหางยาวส่วนตัว (เรือและคนขับ)"
+  },
+  "description": {
+    "en": "A 2–3 hour private long-tail on Cheow Lan Lake to the “Guilin of Thailand”. The captain is included; a tour guide is not. Free time to take photos and relax.",
+    "th": "เช่าเรือหางยาวส่วนตัว 2–3 ชั่วโมง ที่เขื่อนเชี่ยวหลาน ไปชมเขาสามเกลอ รวมคนขับเรือ แต่ไม่รวมไกด์ มีเวลาถ่ายรูปและพักผ่อนได้อย่างอิสระ"
+  },
+  "duration": {
+    "en": "2–3 hours",
+    "th": "2–3 ชั่วโมง"
+  },
+  "price": {
+    "en": "฿7,000 per boat · +฿500 per extra person",
+    "th": "฿7,000 ต่อลำ · เพิ่ม ฿500 ต่อท่าน"
+  },
+  "price_1pax": 7000,
+  "price_2pax": null,
+  "highlights": {
+    "en": [
+      "Private boat to the “Guilin of Thailand”",
+      "Captain included (no tour guide)",
+      "Freedom to take photos and relax"
+    ],
+    "th": [
+      "เรือส่วนตัวไปเขาสามเกลอ",
+      "รวมคนขับเรือ (ไม่รวมไกด์)",
+      "อิสระในการถ่ายรูปและพักผ่อน"
+    ]
+  },
+  "includes": {
+    "en": [
+      "Private long-tail boat",
+      "Captain"
+    ],
+    "th": [
+      "เรือหางยาวส่วนตัว",
+      "คนขับเรือ"
+    ]
+  },
+  "excludes": {
+    "en": [
+      "Tour guide (can be added if available — please ask).",
+      "National Park and pier fees.",
+      "Personal expenses"
+    ],
+    "th": [
+      "ไกด์นำเที่ยว (เพิ่มได้หากมี — สอบถามได้)",
+      "ค่าเข้าอุทยานและค่าธรรมเนียมท่าเรือ",
+      "ค่าใช้จ่ายส่วนตัว"
+    ]
+  },
+  "notes": {
+    "en": "Priced from the master table: ฿7,000 per boat, plus ฿500 per person. A more detailed flyer may list ฿6,500 for 2 passengers, ฿7,000 for 3 passengers, +฿500 per extra person, and +฿1,500 for a guide or Diamond Cave — that sheet was not among the files we could open. Please confirm.",
+    "th": "ราคาตามตารางหลัก: ฿7,000 ต่อลำ บวก ฿500 ต่อท่าน ใบโปรแกรมฉบับละเอียดอาจระบุ ฿6,500 สำหรับ 2 ท่าน, ฿7,000 สำหรับ 3 ท่าน, เพิ่ม ฿500 ต่อท่าน และเพิ่ม ฿1,500 สำหรับไกด์หรือถ้ำเพชร — ไฟล์นั้นยังไม่ได้เปิดในชุดที่ได้รับ กรุณายืนยัน"
+  }
+}
