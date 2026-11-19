@@ -171,18 +171,33 @@ function transfersPage(){
   </section>`;
 }
 
+function firstBaht(p){
+  const m=String(p||'').match(/฿[\d,]+/);
+  return m?m[0]:'';
+}
+function optName(it,type){
+  let n=L(it.name)||'';
+  if(type==='tours'){
+    n=n.replace(/^Khao Sok\s+/i,'').replace(/\s+เขาสก$/,'');
+    const b=firstBaht(L(it.price));
+    if(b) n=`${n} · ${b}`;
+  }
+  return n;
+}
 function bookingPage(){
-  const opt=(type,none)=>`${none?`<option value="">${t('none')}</option>`:''}${(D[type]||[]).map(i=>`<option value="${i.slug}">${esc(L(i.name))} — ${esc(L(i.price))}</option>`).join('')}`;
-  const fld=(k,inp)=>`<label>${t(k)}${inp}</label>`;
+  const opt=(type,none)=>`${none?`<option value="">${t('none')}</option>`:''}${(D[type]||[]).map(i=>`<option value="${i.slug}">${esc(optName(i,type))}</option>`).join('')}`;
+  const fld=(k,inp,hint)=>`<label>${t(k)}${inp}${hint?`<span class="sel-hint" id="${hint}"></span>`:''}</label>`;
   const waBtns=waList.map((w,i)=>`<button type="button" class="btn wa big" data-wa="${esc(w.url)}">${t('send_wa')}${waList.length>1?' · '+esc(w.label):''}</button>`).join('');
   const em=S.email?`<button type="button" id="em" class="btn big">✉ ${t('send_email')}</button>`:'';
   const ln=S.line_url?`<button type="button" id="ln" class="btn line big">LINE · ${t('send_line')}</button>`:'';
   return `<section class="wrap bk"><form id="bf" class="panel"><h1>${t('book_title')}</h1><p>${t('book_sub')}</p>
-    <div class="two">${fld('f_name','<input name="name" required>')}${fld('f_phone','<input name="phone" type="tel">')}
+    <div class="two">
+    ${fld('f_name','<input name="name" required autocomplete="name">')}${fld('f_phone','<input name="phone" type="tel" autocomplete="tel">')}
     ${fld('f_checkin','<input name="checkin" type="date">')}${fld('f_checkout','<input name="checkout" type="date">')}
-    ${fld('f_guests','<input name="guests" type="number" min="1" value="2">')}${fld('f_room',`<select name="rooms">${opt('rooms')}</select>`)}
-    ${fld('f_tour',`<select name="tours">${opt('tours',1)}</select>`)}${fld('f_transfer',`<select name="transfers">${opt('transfers',1)}</select>`)}</div>
-    ${fld('f_note','<textarea name="note" rows="3"></textarea>')}
+    ${fld('f_guests','<input name="guests" type="number" min="1" value="2">')}${fld('f_room',`<select name="rooms" data-type="rooms" aria-describedby="hint-rooms">${opt('rooms')}</select>`,'hint-rooms')}
+    ${fld('f_tour',`<select name="tours" data-type="tours" aria-describedby="hint-tours">${opt('tours',1)}</select>`,'hint-tours')}${fld('f_transfer',`<select name="transfers" data-type="transfers" aria-describedby="hint-transfers">${opt('transfers',1)}</select>`,'hint-transfers')}
+    <label class="span">${t('f_note')}<textarea name="note" rows="3"></textarea></label>
+    </div>
     <div class="acts">${waBtns}${em}${ln}</div>
     <p class="meta">${t('copy_hint')}</p><p id="msg" class="meta"></p>${note()}</form>
     ${policyBlock()}
@@ -214,6 +229,13 @@ function render(){
   if(f){
     const q=new URLSearchParams(location.search);
     ['rooms','tours','transfers'].forEach(k=>{if(q.get(k)&&f.elements[k])f.elements[k].value=q.get(k)});
+    const updateHint=sel=>{
+      const hint=sel.parentElement.querySelector('.sel-hint');
+      if(!hint) return;
+      const it=(D[sel.dataset.type]||[]).find(x=>x.slug===sel.value);
+      hint.textContent=it?(L(it.price)||''):'';
+    };
+    f.querySelectorAll('select[data-type]').forEach(sel=>{updateHint(sel);sel.addEventListener('change',()=>updateHint(sel))});
     const sendWa=url=>{
       if(!f.reportValidity())return;
       const s=summary(f);
